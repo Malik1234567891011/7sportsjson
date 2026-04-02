@@ -1,7 +1,7 @@
 [
   {
     "title": "BELOEIL | MULTISPORT | 2 - 4 ans GR1 | Dimanche 9h00",
-    "city": "BELOEIL",
+    "city": "Beloeil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -16,11 +16,15 @@
       "city": "Beloeil",
       "region": "QC",
       "postal_code": "J3G 6A8"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Valmont, Beloeil, QC, J3G 6A8",
+    "latitude": 45.5848034,
+    "longitude": -73.1991129
   },
   {
     "title": "BELOEIL | MULTISPORT | 2 - 4 ans GR2 | Dimanche 9h00",
-    "city": "BELOEIL",
+    "city": "Beloeil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -35,11 +39,15 @@
       "city": "Beloeil",
       "region": "QC",
       "postal_code": "J3G 6A8"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Valmont, Beloeil, QC, J3G 6A8",
+    "latitude": 45.5848034,
+    "longitude": -73.1991129
   },
   {
     "title": "BELOEIL | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "BELOEIL",
+    "city": "Beloeil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -54,11 +62,15 @@
       "city": "Beloeil",
       "region": "QC",
       "postal_code": "J3G 6A8"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Valmont, Beloeil, QC, J3G 6A8",
+    "latitude": 45.5848034,
+    "longitude": -73.1991129
   },
   {
     "title": "BELOEIL | MULTISPORT | 6 - 9 ans | Dimanche 10h40",
-    "city": "BELOEIL",
+    "city": "Beloeil",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$145.00",
@@ -73,11 +85,15 @@
       "city": "Beloeil",
       "region": "QC",
       "postal_code": "J3G 6A8"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Valmont, Beloeil, QC, J3G 6A8",
+    "latitude": 45.5848034,
+    "longitude": -73.1991129
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -92,11 +108,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$155.00",
@@ -111,11 +131,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -130,11 +154,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$155.00",
@@ -149,11 +177,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 2 - 4 ans | Samedi 9h00",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -168,11 +200,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 4 - 6 ans | Samedi 9h45",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -187,11 +223,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 7 - 10 ans | Samedi 10h40",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$155.00",
@@ -206,11 +246,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "summer",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 2 - 4 ans | Samedi 9h00",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER GR1",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -225,11 +269,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "spring",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 4 - 6 ans | Samedi 9h45",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER GR1",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -244,11 +292,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "spring",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 7 - 10 ans | Samedi 10h40",
-    "city": "BOUCHERVILLE",
+    "city": "Boucherville",
     "sport": "SOCCER GR1",
     "age_range": "7 - 10",
     "price": "$155.00",
@@ -263,11 +315,15 @@
       "city": "Boucherville",
       "region": "QC",
       "postal_code": "J4B 8K8"
-    }
+    },
+    "season": "spring",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -282,11 +338,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h30",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -301,11 +361,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -320,11 +384,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$152.00",
@@ -339,11 +407,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$152.00",
@@ -358,11 +430,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -377,11 +453,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 6 - 8 ans | Dimanche 10h40",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "6 - 8",
     "price": "$152.00",
@@ -396,11 +476,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans GR1 | Mercredi 17h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -415,11 +499,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans GR2 | Mercredi 17h45",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -434,11 +522,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Mercredi 18h30",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -453,11 +545,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 6 - 9 ans | Mercredi 19h25",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$152.00",
@@ -472,11 +568,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -491,11 +591,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans GR2 | Samedi 10h40",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -510,11 +614,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Samedi 9h45",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -529,11 +637,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Samedi 11h25",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$152.00",
@@ -548,11 +660,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 2K6"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$140.00",
@@ -567,11 +683,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "summer",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 4 - 6 ans | Samedi 9h45",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$140.00",
@@ -586,11 +706,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "summer",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 7 - 10 ans | Samedi 10h40",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$140.00",
@@ -605,11 +729,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "summer",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "FRANKLIN | SOCCER | 2 - 4 ans | Jeudi 17h45",
-    "city": "FRANKLIN",
+    "city": "Franklin",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -624,11 +752,15 @@
       "city": "Franklin",
       "region": "QC",
       "postal_code": "J0S 1N0"
-    }
+    },
+    "season": "spring",
+    "full_address": "2555 Rue du Parc, Franklin, QC, J0S 1N0",
+    "latitude": 45.0543622,
+    "longitude": -73.8882418
   },
   {
     "title": "FRANKLIN | SOCCER | 4 - 6 ans | Jeudi 18h30",
-    "city": "FRANKLIN",
+    "city": "Franklin",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -643,11 +775,15 @@
       "city": "Franklin",
       "region": "QC",
       "postal_code": "J0S 1N0"
-    }
+    },
+    "season": "spring",
+    "full_address": "2555 Rue du Parc, Franklin, QC, J0S 1N0",
+    "latitude": 45.0543622,
+    "longitude": -73.8882418
   },
   {
     "title": "FRANKLIN | SOCCER | 7 - 10 ans | Jeudi 19h25",
-    "city": "FRANKLIN",
+    "city": "Franklin",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$145.00",
@@ -662,11 +798,15 @@
       "city": "Franklin",
       "region": "QC",
       "postal_code": "J0S 1N0"
-    }
+    },
+    "season": "spring",
+    "full_address": "2555 Rue du Parc, Franklin, QC, J0S 1N0",
+    "latitude": 45.0543622,
+    "longitude": -73.8882418
   },
   {
     "title": "LACHINE | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h30",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -681,11 +821,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h30",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$155.00",
@@ -700,11 +844,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | MULTISPORT | 4 - 6 ans GR1 | Jeudi 18h15",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR1",
     "price": "$155.00",
@@ -719,11 +867,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | MULTISPORT | 4 - 6 ans GR2 | Jeudi 18h15",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR2",
     "price": "$155.00",
@@ -738,11 +890,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | MULTISPORT | 6 - 9 ans | Jeudi 19h10",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$155.00",
@@ -757,11 +913,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -776,11 +936,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$155.00",
@@ -795,11 +959,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 4 - 6 ans GR1 | Mardi 17h15",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$155.00",
@@ -814,11 +982,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 4 - 6 ans GR2 | Mardi 18h10",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$155.00",
@@ -833,11 +1005,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 6 - 8 ans | Mardi 19h05",
-    "city": "LACHINE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "6 - 8",
     "price": "$155.00",
@@ -852,11 +1028,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8T 2A4"
-    }
+    },
+    "season": "summer",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LASALLE | MULTISPORT | 2 - 4 ans GR1 | Lundi 17h30",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -871,11 +1051,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "summer",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 4 - 6 ans | Lundi 18h15",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -890,11 +1074,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "summer",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 7 - 10 ans | Lundi 19h10",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$155.00",
@@ -909,11 +1097,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "summer",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -928,11 +1120,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "spring",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 4 - 6 ans GR1 | Samedi 9h45",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$155.00",
@@ -947,11 +1143,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "spring",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 7 - 10 ans GR1 | Samedi 10h40",
-    "city": "LASALLE",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "7 - 10 GR1",
     "price": "$155.00",
@@ -966,11 +1166,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H4E 4J3"
-    }
+    },
+    "season": "spring",
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -985,11 +1189,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1004,11 +1212,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Jeudi 17h30",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -1023,11 +1235,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Jeudi 17h30",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1042,11 +1258,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Samedi 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -1061,11 +1281,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Samedi 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1080,11 +1304,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 6 - 9 ans | Samedi 10h40",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$155.00",
@@ -1099,11 +1327,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Mardi 17h30",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -1118,11 +1350,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 4 - 6 ans | Mardi 18h15",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -1137,11 +1373,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 7 - 10 ans | Mardi 19h10",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$150.00",
@@ -1156,11 +1396,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 2 - 4 ans | Lundi 17h30",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -1175,11 +1419,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 4 - 6 ans | Lundi 18h15",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -1194,11 +1442,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 6 - 8 ans | Lundi 19h10",
-    "city": "SAINT-HUBERT",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "6 - 8",
     "price": "$150.00",
@@ -1213,11 +1465,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J3Y4K9"
-    }
+    },
+    "season": "summer",
+    "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
+    "latitude": 45.4985545,
+    "longitude": -73.4224543
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -1232,11 +1488,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1251,11 +1511,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h40",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$155.00",
@@ -1270,11 +1534,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Jeudi 17h30",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -1289,11 +1557,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Jeudi 18h15",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1308,11 +1580,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 7 - 9 ans | Jeudi 19h10",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "7 - 9",
     "price": "$155.00",
@@ -1327,11 +1603,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "summer",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | SAMEDI 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -1346,11 +1626,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | SAMEDI 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -1365,11 +1649,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 2 - 4 ans GR1 | Mercredi 17h00",
-    "city": "POINTE-DES-CASCADES",
+    "city": "Pointe-Des-Cascades",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$132.00",
@@ -1384,11 +1672,15 @@
       "city": "Pointe-des-Cascades",
       "region": "QC",
       "postal_code": "J0P 1M0"
-    }
+    },
+    "season": "summer",
+    "full_address": "61 Chem. du Fleuve, Pointe-des-Cascades, QC, J0P 1M0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 2 - 4 ans GR2 | Mercredi 17h45",
-    "city": "POINTE-DES-CASCADES",
+    "city": "Pointe-Des-Cascades",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$132.00",
@@ -1403,11 +1695,15 @@
       "city": "Pointe-des-Cascades",
       "region": "QC",
       "postal_code": "J0P 1M0"
-    }
+    },
+    "season": "summer",
+    "full_address": "61 Chem. du Fleuve, Pointe-des-Cascades, QC, J0P 1M0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 4 - 6 ans GR1 | Mercredi 18h30",
-    "city": "POINTE-DES-CASCADES",
+    "city": "Pointe-Des-Cascades",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$132.00",
@@ -1422,11 +1718,15 @@
       "city": "Pointe-des-Cascades",
       "region": "QC",
       "postal_code": "J0P 1M0"
-    }
+    },
+    "season": "summer",
+    "full_address": "61 Chem. du Fleuve, Pointe-des-Cascades, QC, J0P 1M0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 4 - 6 ans GR2 | Mercredi 18h30",
-    "city": "POINTE-DES-CASCADES",
+    "city": "Pointe-Des-Cascades",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$132.00",
@@ -1441,11 +1741,15 @@
       "city": "Pointe-des-Cascades",
       "region": "QC",
       "postal_code": "J0P 1M0"
-    }
+    },
+    "season": "summer",
+    "full_address": "61 Chem. du Fleuve, Pointe-des-Cascades, QC, J0P 1M0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 7 - 12 ans | Mercredi 19h25",
-    "city": "POINTE-DES-CASCADES",
+    "city": "Pointe-Des-Cascades",
     "sport": "SOCCER",
     "age_range": "7 - 12",
     "price": "$132.00",
@@ -1460,11 +1764,15 @@
       "city": "Pointe-des-Cascades",
       "region": "QC",
       "postal_code": "J0P 1M0"
-    }
+    },
+    "season": "summer",
+    "full_address": "61 Chem. du Fleuve, Pointe-des-Cascades, QC, J0P 1M0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "SAINTE-ANNE-DE-BELLEVUE",
+    "city": "Sainte-Anne-De-Bellevue",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$139.00",
@@ -1479,11 +1787,15 @@
       "city": "Sainte-Anne-de-Bellevue",
       "region": "QC",
       "postal_code": "H9X1X9"
-    }
+    },
+    "season": "summer",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "SAINTE-ANNE-DE-BELLEVUE",
+    "city": "Sainte-Anne-De-Bellevue",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$139.00",
@@ -1498,11 +1810,15 @@
       "city": "Sainte-Anne-de-Bellevue",
       "region": "QC",
       "postal_code": "H9X1X9"
-    }
+    },
+    "season": "summer",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORT | 6 - 9 ans | Dimanche 10h40",
-    "city": "SAINTE-ANNE-DE-BELLEVUE",
+    "city": "Sainte-Anne-De-Bellevue",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$139.00",
@@ -1517,11 +1833,15 @@
       "city": "Sainte-Anne-de-Bellevue",
       "region": "QC",
       "postal_code": "H9X1X9"
-    }
+    },
+    "season": "summer",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "SAINTE-CLOTILDE | SOCCER | 2 - 4 ans | Jeudi 17h30",
-    "city": "SAINTE-CLOTILDE",
+    "city": "Sainte-Clotilde-De-Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -1536,11 +1856,15 @@
       "city": "Sainte-Clotilde-de-Châteauguay",
       "region": "QC",
       "postal_code": "J0L 1W0"
-    }
+    },
+    "season": "summer",
+    "full_address": "824 2e Rang, Sainte-Clotilde-de-Châteauguay, QC, J0L 1W0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-CLOTILDE | SOCCER | 4 - 6 ans | Jeudi 18h15",
-    "city": "SAINTE-CLOTILDE",
+    "city": "Sainte-Clotilde-De-Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -1555,11 +1879,15 @@
       "city": "Sainte-Clotilde-de-Châteauguay",
       "region": "QC",
       "postal_code": "J0L 1W0"
-    }
+    },
+    "season": "summer",
+    "full_address": "824 2e Rang, Sainte-Clotilde-de-Châteauguay, QC, J0L 1W0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-CLOTILDE | SOCCER | 7 - 12 ans | Jeudi 19h10",
-    "city": "SAINTE-CLOTILDE",
+    "city": "Sainte-Clotilde-De-Châteauguay",
     "sport": "SOCCER",
     "age_range": "7 - 12",
     "price": "$145.00",
@@ -1574,11 +1902,15 @@
       "city": "Sainte-Clotilde-de-Châteauguay",
       "region": "QC",
       "postal_code": "J0L 1W0"
-    }
+    },
+    "season": "summer",
+    "full_address": "824 2e Rang, Sainte-Clotilde-de-Châteauguay, QC, J0L 1W0",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$141.00",
@@ -1593,11 +1925,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "summer",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$141.00",
@@ -1612,11 +1948,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "summer",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$141.00",
@@ -1631,11 +1971,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "summer",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$141.00",
@@ -1650,11 +1994,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "summer",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h00",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$141.00",
@@ -1669,11 +2017,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "spring",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Mardi 17h30",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$141.00",
@@ -1688,11 +2040,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "spring",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h15",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$141.00",
@@ -1707,11 +2063,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "spring",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h10",
-    "city": "SAINTE-JULIE",
+    "city": "Sainte-Julie",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$141.00",
@@ -1726,11 +2086,15 @@
       "city": "Sainte-Julie",
       "region": "QC",
       "postal_code": "J3E 1P3"
-    }
+    },
+    "season": "spring",
+    "full_address": "1650 Rue C.-H.-Grignon, Sainte-Julie, QC, J3E 1P3",
+    "latitude": 45.6045383,
+    "longitude": -73.3489742
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY | 4 - 5 ans | Lundi 17h00",
-    "city": "SAINT-ÉTIENNE-DE-BEAUHARNOIS",
+    "city": "Saint-Étienne-De-Beauharnois",
     "sport": "HOCKEY",
     "age_range": "4 - 5",
     "price": "$160.00",
@@ -1745,11 +2109,15 @@
       "city": "Saint-Étienne-de-Beauharnois",
       "region": "QC",
       "postal_code": "J0S 1S0"
-    }
+    },
+    "season": "spring",
+    "full_address": "330 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
+    "latitude": 45.2479828,
+    "longitude": -73.9163164
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY | 5 - 7 ans GR1 | Lundi 17h45",
-    "city": "SAINT-ÉTIENNE-DE-BEAUHARNOIS",
+    "city": "Saint-Étienne-De-Beauharnois",
     "sport": "HOCKEY",
     "age_range": "5 - 7 GR1",
     "price": "$160.00",
@@ -1764,11 +2132,15 @@
       "city": "Saint-Étienne-de-Beauharnois",
       "region": "QC",
       "postal_code": "J0S 1S0"
-    }
+    },
+    "season": "spring",
+    "full_address": "330 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
+    "latitude": 45.2479828,
+    "longitude": -73.9163164
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY | 5 - 7 ans GR2 | Lundi 17h45",
-    "city": "SAINT-ÉTIENNE-DE-BEAUHARNOIS",
+    "city": "Saint-Étienne-De-Beauharnois",
     "sport": "HOCKEY",
     "age_range": "5 - 7 GR2",
     "price": "$160.00",
@@ -1783,11 +2155,15 @@
       "city": "Saint-Étienne-de-Beauharnois",
       "region": "QC",
       "postal_code": "J0S 1S0"
-    }
+    },
+    "season": "spring",
+    "full_address": "330 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
+    "latitude": 45.2479828,
+    "longitude": -73.9163164
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY | 7 - 9 ans | Lundi 18h35",
-    "city": "SAINT-ÉTIENNE-DE-BEAUHARNOIS",
+    "city": "Saint-Étienne-De-Beauharnois",
     "sport": "HOCKEY",
     "age_range": "7 - 9",
     "price": "$160.00",
@@ -1802,11 +2178,15 @@
       "city": "Saint-Étienne-de-Beauharnois",
       "region": "QC",
       "postal_code": "J0S 1S0"
-    }
+    },
+    "season": "spring",
+    "full_address": "330 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
+    "latitude": 45.2479828,
+    "longitude": -73.9163164
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY | 9 - 12 ans | Lundi 19h30",
-    "city": "SAINT-ÉTIENNE-DE-BEAUHARNOIS",
+    "city": "Saint-Étienne-De-Beauharnois",
     "sport": "HOCKEY",
     "age_range": "9 - 12",
     "price": "$160.00",
@@ -1821,11 +2201,15 @@
       "city": "Saint-Étienne-de-Beauharnois",
       "region": "QC",
       "postal_code": "J0S 1S0"
-    }
+    },
+    "season": "spring",
+    "full_address": "330 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
+    "latitude": 45.2479828,
+    "longitude": -73.9163164
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -1840,11 +2224,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -1859,11 +2247,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 4 - 6 ans GR1 | Jeudi 18h30",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR1",
     "price": "$145.00",
@@ -1878,11 +2270,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$145.00",
@@ -1897,11 +2293,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 2 - 4 ans GR1 | Mercredi 17h00",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -1916,11 +2316,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 2 - 4 ans GR2 | Mercredi 17h45",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -1935,11 +2339,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 4 - 6 ans GR1 | Mercredi 18h30",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR1",
     "price": "$145.00",
@@ -1954,11 +2362,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | MULTISPORT | 6 - 9 ans | Mercredi 19h25",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$145.00",
@@ -1973,11 +2385,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -1992,11 +2408,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -2011,11 +2431,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 4 - 6 ans GR1 | Mardi 18h30",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$145.00",
@@ -2030,11 +2454,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 7 - 9 ans | Mardi 19h25",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "7 - 9",
     "price": "$145.00",
@@ -2049,11 +2477,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 9 - 11 ans | Mardi 19h25",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "9 - 11",
     "price": "$145.00",
@@ -2068,11 +2500,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 2 - 4 ans GR1 | Mercredi 17h00",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -2087,11 +2523,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 2 - 4 ans GR2 | Mercredi 17h45",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -2106,11 +2546,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 4 - 6 ans GR1 | Mercredi 17h30",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$145.00",
@@ -2125,11 +2569,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 7 - 10 ans GR2 | Mercredi 19h25",
-    "city": "SAINT-HYACINTHE",
+    "city": "Saint-Hyacinthe",
     "sport": "SOCCER",
     "age_range": "7 - 10 GR2",
     "price": "$145.00",
@@ -2144,11 +2592,15 @@
       "city": "Saint-Hyacinthe",
       "region": "QC",
       "postal_code": "J2T 1B3"
-    }
+    },
+    "season": "summer",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans | Jeudi 17h30",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$152.00",
@@ -2163,11 +2615,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Jeudi 18h15",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -2182,11 +2638,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 6 - 9 ans | Jeudi 19h10",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$152.00",
@@ -2201,11 +2661,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans GR1 | Lundi 17h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -2220,11 +2684,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "summer",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans GR2 | Lundi 17h45",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -2239,11 +2707,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "summer",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Lundi 18h15",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -2258,11 +2730,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "summer",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 7 - 10 ans | Lundi 19h25",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$152.00",
@@ -2277,11 +2753,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "summer",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -2296,11 +2776,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -2315,11 +2799,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 4 - 6 ans | Jeudi 18h30",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -2334,11 +2822,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 7 - 10 ans | Jeudi 19h25",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$152.00",
@@ -2353,11 +2845,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J2X 5P8"
-    }
+    },
+    "season": "summer",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -2372,11 +2868,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR2 | Samedi 9h55",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -2391,11 +2891,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR3 | Samedi 10h40",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR3",
     "price": "$152.00",
@@ -2410,11 +2914,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 4 - 6 ans GR1 | Samedi 9h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$152.00",
@@ -2429,11 +2937,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 4 - 6 ans GR2 | Samedi 9h50",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$152.00",
@@ -2448,11 +2960,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 7 - 10 ans | Samedi 10h50",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$152.00",
@@ -2467,11 +2983,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-LOUIS-DE-GONZAGUE| MULTISPORT | 2 - 5 ans | Jeudi 17h30",
-    "city": "SAINT-LOUIS-DE-GONZAGUE",
+    "city": "Saint-Louis-De-Gonzague",
     "sport": "MULTISPORT",
     "age_range": "2 - 5",
     "price": "$139.00",
@@ -2486,11 +3006,15 @@
       "city": "Saint-Louis-de-Gonzague",
       "region": "QC",
       "postal_code": "J0S 1T0"
-    }
+    },
+    "season": "summer",
+    "full_address": "12 Rue Saint-Thomas, Saint-Louis-de-Gonzague, QC, J0S 1T0",
+    "latitude": 45.2144085,
+    "longitude": -73.9972794
   },
   {
     "title": "SAINT-LOUIS-DE-GONZAGUE| MULTISPORT | 6 - 10 ans | Jeudi 17h30",
-    "city": "SAINT-LOUIS-DE-GONZAGUE",
+    "city": "Saint-Louis-De-Gonzague",
     "sport": "MULTISPORT",
     "age_range": "6 - 10",
     "price": "$139.00",
@@ -2505,11 +3029,15 @@
       "city": "Saint-Louis-de-Gonzague",
       "region": "QC",
       "postal_code": "J0S 1T0"
-    }
+    },
+    "season": "summer",
+    "full_address": "12 Rue Saint-Thomas, Saint-Louis-de-Gonzague, QC, J0S 1T0",
+    "latitude": 45.2144085,
+    "longitude": -73.9972794
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 4 - 5 ans | Samedi 9h00",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "HOCKEY",
     "age_range": "4 - 5",
     "price": "$150.00",
@@ -2524,11 +3052,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T 0H4"
-    }
+    },
+    "season": "spring",
+    "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 6 - 8 ans | Samedi 9h50",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "HOCKEY",
     "age_range": "6 - 8",
     "price": "$150.00",
@@ -2543,11 +3075,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T 0H4"
-    }
+    },
+    "season": "spring",
+    "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 9 - 12 ans | Samedi 10h40",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "HOCKEY",
     "age_range": "9 - 12",
     "price": "$150.00",
@@ -2562,11 +3098,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T 0H4"
-    }
+    },
+    "season": "spring",
+    "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$142.00",
@@ -2581,11 +3121,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S2B9"
-    }
+    },
+    "season": "summer",
+    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "latitude": 45.2784721,
+    "longitude": -74.0815712
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -2600,11 +3144,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S2B9"
-    }
+    },
+    "season": "summer",
+    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "latitude": 45.2784721,
+    "longitude": -74.0815712
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 4 - 6 ans | Mardi 18h30",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$142.00",
@@ -2619,11 +3167,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S2B9"
-    }
+    },
+    "season": "summer",
+    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "latitude": 45.2784721,
+    "longitude": -74.0815712
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 7 - 10 ans | Mardi 19h25",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$142.00",
@@ -2638,11 +3190,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S2B9"
-    }
+    },
+    "season": "summer",
+    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "latitude": 45.2784721,
+    "longitude": -74.0815712
   },
   {
     "title": "VALLEYFIELD | SOCCER | 2 - 4 ans GR1 | Dimanche 9h00",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$142.00",
@@ -2657,11 +3213,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VALLEYFIELD | SOCCER | 2 - 4 ans GR2 | Dimanche 9h55",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -2676,11 +3236,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VALLEYFIELD | SOCCER | 4 - 6 ans GR1 | Dimanche 9h00",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$142.00",
@@ -2695,11 +3259,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VALLEYFIELD | SOCCER | 4 - 6 ans GR2 | Dimanche 9h50",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$142.00",
@@ -2714,11 +3282,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VALLEYFIELD | SOCCER | 7 - 9 ans GR1 | Dimanche 10h50",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "7 - 9 GR1",
     "price": "$142.00",
@@ -2733,11 +3305,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VALLEYFIELD | SOCCER | 9 - 12 ans GR1 | Dimanche 10h50",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "9 - 12 GR1",
     "price": "$142.00",
@@ -2752,11 +3328,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T4K1"
-    }
+    },
+    "season": "spring",
+    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "latitude": 45.2496202,
+    "longitude": -74.1282838
   },
   {
     "title": "VARENNES | MULTISPORT | 2 - 4 ans | Mardi 17h30",
-    "city": "VARENNES",
+    "city": "Varennes",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -2771,11 +3351,15 @@
       "city": "Varennes",
       "region": "QC",
       "postal_code": "J3X 1L9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Perrault, Varennes, QC, J3X 1L9",
+    "latitude": 45.6821656,
+    "longitude": -73.414586
   },
   {
     "title": "VARENNES | MULTISPORT | 4 - 6 ans | Mardi 18h15",
-    "city": "VARENNES",
+    "city": "Varennes",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -2790,11 +3374,15 @@
       "city": "Varennes",
       "region": "QC",
       "postal_code": "J3X 1L9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Perrault, Varennes, QC, J3X 1L9",
+    "latitude": 45.6821656,
+    "longitude": -73.414586
   },
   {
     "title": "VARENNES | MULTISPORT | 7 - 10 ans | Mardi 19h10",
-    "city": "VARENNES",
+    "city": "Varennes",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$145.00",
@@ -2809,11 +3397,15 @@
       "city": "Varennes",
       "region": "QC",
       "postal_code": "J3X 1L9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Perrault, Varennes, QC, J3X 1L9",
+    "latitude": 45.6821656,
+    "longitude": -73.414586
   },
   {
     "title": "CHAMBLY | MULTISPORT | 2 - 4 ans | Samedi 9h35",
-    "city": "CHAMBLY",
+    "city": "Chambly",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$149.00",
@@ -2828,11 +3420,15 @@
       "city": "Chambly",
       "region": "QC",
       "postal_code": "J3L1Z4"
-    }
+    },
+    "season": "spring",
+    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHAMBLY | MULTISPORT | 4 - 6 ans | Samedi 10h15",
-    "city": "CHAMBLY",
+    "city": "Chambly",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$149.00",
@@ -2847,11 +3443,15 @@
       "city": "Chambly",
       "region": "QC",
       "postal_code": "J3L1Z4"
-    }
+    },
+    "season": "spring",
+    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY BALLE GR1 | 4 - 6 ans | Dimanche 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "HOCKEY BALLE GR1",
     "age_range": "4 - 6",
     "price": "$149.00",
@@ -2866,11 +3466,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY BALLE | 7 - 10 ans | Dimanche 9h50",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "HOCKEY BALLE",
     "age_range": "7 - 10",
     "price": "$149.00",
@@ -2885,11 +3489,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR1 | Dimanche 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$149.00",
@@ -2904,11 +3512,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR2 | Dimanche 9h50",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$149.00",
@@ -2923,11 +3535,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans | Dimanche 9h55",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$149.00",
@@ -2942,11 +3558,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 7 - 10 ans | Dimanche 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$149.00",
@@ -2961,11 +3581,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$149.00",
@@ -2980,11 +3604,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans GR1 | Dimanche 9h50",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$149.00",
@@ -2999,11 +3627,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans GR2 | Dimanche 10h45",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$149.00",
@@ -3018,11 +3650,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Dimanche 11h05",
-    "city": "CHÂTEAUGUAY",
+    "city": "Châteauguay",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$149.00",
@@ -3037,11 +3673,15 @@
       "city": "Châteauguay",
       "region": "QC",
       "postal_code": "J6K 0H5"
-    }
+    },
+    "season": "spring",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans | Samedi 9h00",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$140.00",
@@ -3056,11 +3696,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "spring",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 4 - 6 ans | Samedi 9h45",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$140.00",
@@ -3075,11 +3719,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "spring",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 7 - 10 ans | Samedi 10h40",
-    "city": "COTEAU-DU-LAC",
+    "city": "Coteau-Du-Lac",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$140.00",
@@ -3094,11 +3742,15 @@
       "city": "Coteau-du-Lac",
       "region": "QC",
       "postal_code": "J0P 1B0"
-    }
+    },
+    "season": "spring",
+    "full_address": "1 rue du Parc, Coteau-du-Lac, QC, J0P 1B0",
+    "latitude": 45.2943158,
+    "longitude": -74.1756157
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$155.00",
@@ -3113,11 +3765,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -3132,11 +3788,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans GR1 | Dimanche 9h00",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -3151,11 +3811,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans GR2 | Dimanche 10h40",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$155.00",
@@ -3170,11 +3834,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$155.00",
@@ -3189,11 +3857,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 11h30",
-    "city": "LONGUEUIL",
+    "city": "Longueuil",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$155.00",
@@ -3208,11 +3880,15 @@
       "city": "Longueuil",
       "region": "QC",
       "postal_code": "J4P 3G"
-    }
+    },
+    "season": "spring",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "PIERREFONDS",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -3227,11 +3903,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8Y 3T4"
-    }
+    },
+    "season": "spring",
+    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "latitude": 45.5047179,
+    "longitude": -73.6810034
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "PIERREFONDS",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -3246,11 +3926,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8Y 3T4"
-    }
+    },
+    "season": "spring",
+    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "latitude": 45.5047179,
+    "longitude": -73.6810034
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 12 ans | Dimanche 10h40",
-    "city": "PIERREFONDS",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "7 - 12",
     "price": "$150.00",
@@ -3265,11 +3949,15 @@
       "city": "Montréal",
       "region": "QC",
       "postal_code": "H8Y 3T4"
-    }
+    },
+    "season": "spring",
+    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "latitude": 45.5047179,
+    "longitude": -73.6810034
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "SAINTE-CATHERINE",
+    "city": "Sainte-Catherine",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -3284,11 +3972,15 @@
       "city": "Sainte-Catherine",
       "region": "QC",
       "postal_code": "J5C 0A1"
-    }
+    },
+    "season": "spring",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "SAINTE-CATHERINE",
+    "city": "Sainte-Catherine",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -3303,11 +3995,15 @@
       "city": "Sainte-Catherine",
       "region": "QC",
       "postal_code": "J5C 0A1"
-    }
+    },
+    "season": "spring",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINTE-CATHERINE | SOCCER | 2 - 4 ans | Dimanche 10:40",
-    "city": "SAINTE-CATHERINE",
+    "city": "Sainte-Catherine",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -3322,11 +4018,15 @@
       "city": "Sainte-Catherine",
       "region": "QC",
       "postal_code": "J5C 0A1"
-    }
+    },
+    "season": "spring",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY | 4 - 6 ans | Dimanche 9h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "HOCKEY",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -3341,11 +4041,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY | 7 - 10 ans | Dimanche 9h45",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "HOCKEY",
     "age_range": "7 - 10",
     "price": "$152.00",
@@ -3360,11 +4064,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans GR1 | Dimanche 9h00",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$152.00",
@@ -3379,11 +4087,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans GR2 | Dimanche 10h40",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$152.00",
@@ -3398,11 +4110,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$152.00",
@@ -3417,11 +4133,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans GR2 | Dimanche 11h25",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR2",
     "price": "$152.00",
@@ -3436,11 +4156,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 6 - 9 ans | Dimanche 10h40",
-    "city": "SAINT-JEAN-SUR-RICHELIEU",
+    "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$152.00",
@@ -3455,11 +4179,15 @@
       "city": "Saint-Jean-sur-Richelieu",
       "region": "QC",
       "postal_code": "J3B 8R8"
-    }
+    },
+    "season": "spring",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | SOCCER | 4 - 6 ans | Lundi 17h30",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$147.00",
@@ -3474,11 +4202,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S3R4"
-    }
+    },
+    "season": "spring",
+    "full_address": "17 rue Gault, Salaberry-de-Valleyfield, QC, J6S3R4",
+    "latitude": 45.2622084,
+    "longitude": -74.1311789
   },
   {
     "title": "VALLEYFIELD | SOCCER | 7 - 10 ans | Lundi 17h30",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$147.00",
@@ -3493,11 +4225,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6S3R4"
-    }
+    },
+    "season": "spring",
+    "full_address": "17 rue Gault, Salaberry-de-Valleyfield, QC, J6S3R4",
+    "latitude": 45.2622084,
+    "longitude": -74.1311789
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
-    "city": "SAINTE-ANNE-DE-BELLEVUE",
+    "city": "Sainte-Anne-De-Bellevue",
     "sport": "MULTISPORTS",
     "age_range": "2 - 4",
     "price": "$160.00",
@@ -3512,11 +4248,15 @@
       "city": "Sainte-Anne-de-Bellevue",
       "region": "QC",
       "postal_code": "H9X1X9"
-    }
+    },
+    "season": "winter",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | DÉCOUVERTE (16-26M) | Dimanche 8h30",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORTS",
     "age_range": "DÉCOUVERTE (16-26M)",
     "price": "$32.50",
@@ -3531,11 +4271,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T2A9"
-    }
+    },
+    "season": "winter",
+    "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
+    "latitude": 45.2493499,
+    "longitude": -74.1406796
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 2 - 4 ans | Dimanche 9h05",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORTS",
     "age_range": "2 - 4",
     "price": "$65.00",
@@ -3550,11 +4294,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T2A9"
-    }
+    },
+    "season": "winter",
+    "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
+    "latitude": 45.2493499,
+    "longitude": -74.1406796
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 4 - 6 ans | Dimanche 11h40",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORTS",
     "age_range": "4 - 6",
     "price": "$65.00",
@@ -3569,11 +4317,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T2A9"
-    }
+    },
+    "season": "winter",
+    "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
+    "latitude": 45.2493499,
+    "longitude": -74.1406796
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 4 - 6 ans | Dimanche 9h50",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORTS",
     "age_range": "4 - 6",
     "price": "$65.00",
@@ -3588,11 +4340,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T2A9"
-    }
+    },
+    "season": "winter",
+    "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
+    "latitude": 45.2493499,
+    "longitude": -74.1406796
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 7 - 11 ans | Dimanche 10h45",
-    "city": "VALLEYFIELD",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORTS",
     "age_range": "7 - 11",
     "price": "$65.00",
@@ -3607,11 +4363,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J6T2A9"
-    }
+    },
+    "season": "winter",
+    "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
+    "latitude": 45.2493499,
+    "longitude": -74.1406796
   },
   {
     "title": "AYLMER | MULTISPORT | 2 - 4 ans | Samedi 9h00",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -3626,11 +4386,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | MULTISPORT | 4 - 6 ans | Samedi 9h45",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -3645,11 +4409,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | MULTISPORT | 6 - 9 ans | Samedi 10h40",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "6 - 9",
     "price": "$145.00",
@@ -3664,11 +4432,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | SOCCER | 2 - 4 ans GR1 | Lundi 17h00",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$145.00",
@@ -3683,11 +4455,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | SOCCER | 2 - 4 ans GR2 | Lundi 17h45",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$145.00",
@@ -3702,11 +4478,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR1 | Lundi 17h30",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$145.00",
@@ -3721,11 +4501,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR2 | Lundi 18h30",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$145.00",
@@ -3740,11 +4524,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "AYLMER | SOCCER | 7 - 10 ans | Lundi 18h45",
-    "city": "AYLMER",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$145.00",
@@ -3759,11 +4547,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J9H1T6"
-    }
+    },
+    "season": "summer",
+    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "latitude": 45.3972674,
+    "longitude": -75.8039755
   },
   {
     "title": "GATINEAU | MULTISPORT GR1 | 2 - 4 ans | Dimanche 9h00",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "MULTISPORT GR1",
     "age_range": "2 - 4",
     "price": "$175.00",
@@ -3778,11 +4570,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | MULTISPORT GR1 | 4 - 6 ans | Dimanche 9h45",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "MULTISPORT GR1",
     "age_range": "4 - 6",
     "price": "$175.00",
@@ -3797,11 +4593,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | MULTISPORT GR1 | 7 - 10 ans | Dimanche 10h40",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "MULTISPORT GR1",
     "age_range": "7 - 10",
     "price": "$175.00",
@@ -3816,11 +4616,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR1 | 2 - 4 ans | Mardi 17h00",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR1",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -3835,11 +4639,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR2 | 2 - 4 ans | Mardi 17h45",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR2",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -3854,11 +4662,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR3 | 2 - 4 ans | Mardi 18h30",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR3",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -3873,11 +4685,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR1 | 4 - 6 ans | Mardi 17h30",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR1",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -3892,11 +4708,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR2 | 4 - 6 ans | Mardi 18h30",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR2",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -3911,11 +4731,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR1 | 7 - 10 ans | Mardi 19h25",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR1",
     "age_range": "7 - 10",
     "price": "$150.00",
@@ -3930,11 +4754,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "GATINEAU | SOCCER GR2 | 7 - 10 ans | Mardi 19h25",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER GR2",
     "age_range": "7 - 10",
     "price": "$150.00",
@@ -3949,11 +4777,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T 3M8"
-    }
+    },
+    "season": "summer",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "HULL | MULTISPORT | 2 - 4 ans GR1 | Mercredi 17h00",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -3968,11 +4800,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | MULTISPORT | 2 - 4 ans GR2 | Mercredi 17h45",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$150.00",
@@ -3987,11 +4823,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | MULTISPORT | 4 - 6 ans | Mercredi 18h30",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -4006,11 +4846,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -4025,11 +4869,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -4044,11 +4892,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | SOCCER | 6 - 9 ans | Dimanche 10h40",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$150.00",
@@ -4063,11 +4915,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y 6G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "L'ANGE-GARDIEN | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "L'ANGE-GARDIEN",
+    "city": "L'Ange-Gardien",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$142.00",
@@ -4082,11 +4938,15 @@
       "city": "L'Ange-Gardien",
       "region": "QC",
       "postal_code": "J8L 0G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "L'ANGE-GARDIEN | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "L'ANGE-GARDIEN",
+    "city": "L'Ange-Gardien",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -4101,11 +4961,15 @@
       "city": "L'Ange-Gardien",
       "region": "QC",
       "postal_code": "J8L 0G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "L'ANGE-GARDIEN | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
-    "city": "L'ANGE-GARDIEN",
+    "city": "L'Ange-Gardien",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$142.00",
@@ -4120,11 +4984,15 @@
       "city": "L'Ange-Gardien",
       "region": "QC",
       "postal_code": "J8L 0G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "L'ANGE-GARDIEN | MULTISPORT | 7 - 12 ans | Jeudi 19h25",
-    "city": "L'ANGE-GARDIEN",
+    "city": "L'Ange-Gardien",
     "sport": "MULTISPORT",
     "age_range": "7 - 12",
     "price": "$142.00",
@@ -4139,11 +5007,15 @@
       "city": "L'Ange-Gardien",
       "region": "QC",
       "postal_code": "J8L 0G2"
-    }
+    },
+    "season": "summer",
+    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | MULTISPORT | 2 - 5 ans | Mercredi 17h30",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 5",
     "price": "$145.00",
@@ -4158,11 +5030,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8P3M6"
-    }
+    },
+    "season": "spring",
+    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | MULTISPORT | 6 - 10 ans | Mercredi 18h15",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "6 - 10",
     "price": "$145.00",
@@ -4177,11 +5053,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8P3M6"
-    }
+    },
+    "season": "spring",
+    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | SOCCER | 4 - 6 ans | Mardi 17h45",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$135.00",
@@ -4196,11 +5076,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T4V7"
-    }
+    },
+    "season": "spring",
+    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
+    "latitude": 45.4737776,
+    "longitude": -75.7232833
   },
   {
     "title": "GATINEAU | SOCCER | 7 - 10 ans | Mardi 18h40",
-    "city": "GATINEAU",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$135.00",
@@ -4215,11 +5099,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8T4V7"
-    }
+    },
+    "season": "spring",
+    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
+    "latitude": 45.4737776,
+    "longitude": -75.7232833
   },
   {
     "title": "HULL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -4234,11 +5122,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y3N3"
-    }
+    },
+    "season": "spring",
+    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
+    "latitude": 45.4256848,
+    "longitude": -75.7291063
   },
   {
     "title": "HULL | MULTISPORT | 4 - 6 ans | Dimanche 9h50",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -4253,11 +5145,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y3N3"
-    }
+    },
+    "season": "spring",
+    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
+    "latitude": 45.4256848,
+    "longitude": -75.7291063
   },
   {
     "title": "HULL | SOCCER | 2 - 4 ans | Dimanche 10h50",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -4272,11 +5168,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y3N3"
-    }
+    },
+    "season": "spring",
+    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
+    "latitude": 45.4256848,
+    "longitude": -75.7291063
   },
   {
     "title": "HULL | SOCCER | 4 - 6 ans | Dimanche 9h50",
-    "city": "HULL",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -4291,11 +5191,15 @@
       "city": "Gatineau",
       "region": "QC",
       "postal_code": "J8Y3N3"
-    }
+    },
+    "season": "spring",
+    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
+    "latitude": 45.4256848,
+    "longitude": -75.7291063
   },
   {
     "title": "FARNHAM | MULTISPORT | 2 - 4 ans | Mardi 17h30",
-    "city": "FARNHAM",
+    "city": "Farnham",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$139.00",
@@ -4310,11 +5214,15 @@
       "city": "Farnham",
       "region": "QC",
       "postal_code": "J2N 1M9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Parc Israël Larochelle, Farnham, QC, J2N 1M9",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "FARNHAM | MULTISPORT | 4 - 6 ans | MARDI 18h15",
-    "city": "FARNHAM",
+    "city": "Farnham",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$139.00",
@@ -4329,11 +5237,15 @@
       "city": "Farnham",
       "region": "QC",
       "postal_code": "J2N 1M9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Parc Israël Larochelle, Farnham, QC, J2N 1M9",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "FARNHAM | MULTISPORT | 7 - 10 ans | MARDI 19h10",
-    "city": "FARNHAM",
+    "city": "Farnham",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$139.00",
@@ -4348,11 +5260,15 @@
       "city": "Farnham",
       "region": "QC",
       "postal_code": "J2N 1M9"
-    }
+    },
+    "season": "summer",
+    "full_address": "Parc Israël Larochelle, Farnham, QC, J2N 1M9",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | MULTISPORT | 2 - 4 ans | Mardi 17h00",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$142.00",
@@ -4367,11 +5283,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | MULTISPORT | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -4386,11 +5306,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | MULTISPORT | 4 - 6 ans | MARDI 18h30",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$142.00",
@@ -4405,11 +5329,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | MULTISPORT | 7 - 10 ans | MARDI 19h25",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$142.00",
@@ -4424,11 +5352,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER | 2 - 4 ans GR1 | LUNDI 17h00",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$142.00",
@@ -4443,11 +5375,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER | 2 - 4 ans GR2 | LUNDI 17h45",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -4462,11 +5398,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER 2 | 4 - 6 ans GR1 | LUNDI 18h30",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER 2",
     "age_range": "4 - 6 GR1",
     "price": "$142.00",
@@ -4481,11 +5421,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER | 7 - 10 ans GR1 | Lundi 19h25",
-    "city": "MAGOG",
+    "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER",
     "age_range": "7 - 10 GR1",
     "price": "$142.00",
@@ -4500,11 +5444,15 @@
       "city": "Salaberry-de-Valleyfield",
       "region": "QC",
       "postal_code": "J1X3Y6"
-    }
+    },
+    "season": "summer",
+    "full_address": "1255 boulevard des Étudiants, Salaberry-de-Valleyfield, QC, J1X3Y6",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "ROXTON POND | MULTISPORT | 2 - 4 ans | Mardi 17h30",
-    "city": "ROXTON POND",
+    "city": "Roxton Pond",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$135.00",
@@ -4519,11 +5467,15 @@
       "city": "Roxton Pond",
       "region": "QC",
       "postal_code": "J0E 1Z0"
-    }
+    },
+    "season": "summer",
+    "full_address": "2069 avenue du Lac Ouest, Roxton Pond, QC, J0E 1Z0",
+    "latitude": 45.4592652,
+    "longitude": -72.6560127
   },
   {
     "title": "ROXTON POND | MULTISPORT | 4 - 6 ans | Mardi 18h15",
-    "city": "ROXTON POND",
+    "city": "Roxton Pond",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$135.00",
@@ -4538,11 +5490,15 @@
       "city": "Roxton Pond",
       "region": "QC",
       "postal_code": "J0E 1Z0"
-    }
+    },
+    "season": "summer",
+    "full_address": "2069 avenue du Lac Ouest, Roxton Pond, QC, J0E 1Z0",
+    "latitude": 45.4592652,
+    "longitude": -72.6560127
   },
   {
     "title": "ROXTON POND | MULTISPORT | 7 - 10 ans | Mardi 19h10",
-    "city": "ROXTON POND",
+    "city": "Roxton Pond",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
     "price": "$135.00",
@@ -4557,11 +5513,15 @@
       "city": "Roxton Pond",
       "region": "QC",
       "postal_code": "J0E 1Z0"
-    }
+    },
+    "season": "summer",
+    "full_address": "2069 avenue du Lac Ouest, Roxton Pond, QC, J0E 1Z0",
+    "latitude": 45.4592652,
+    "longitude": -72.6560127
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT 2",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4576,11 +5536,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 4 - 6 ans GR1 | Samedi 9h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT 2",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4595,11 +5559,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 6 - 9 ans GR1 | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT 2",
     "age_range": "6 - 9 GR1",
     "price": "$150.00",
@@ -4614,11 +5582,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4633,11 +5605,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$150.00",
@@ -4652,11 +5628,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 4 - 6 ans GR1 | Jeudi 18h30",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4671,11 +5651,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 7 - 10 ans GR1 | Jeudi 19h25",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "7 - 10 GR1",
     "price": "$150.00",
@@ -4690,11 +5674,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4709,11 +5697,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 4 - 6 ans GR1 | Samedi 9h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4728,11 +5720,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 6 - 9 ans GR1 | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "6 - 9 GR1",
     "price": "$150.00",
@@ -4747,11 +5743,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT | 9 - 12 ans | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "MULTISPORT",
     "age_range": "9 - 12",
     "price": "$150.00",
@@ -4766,11 +5766,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER 2",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4785,11 +5789,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 4 - 6 ans GR1 | Samedi 9h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER 2",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4804,11 +5812,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 7 - 10 ans GR1 | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER 2",
     "age_range": "7 - 10 GR1",
     "price": "$150.00",
@@ -4823,11 +5835,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4842,11 +5858,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$150.00",
@@ -4861,11 +5881,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 4 - 6 ans GR1 | Jeudi 18h30",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4880,11 +5904,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 7 - 10 ans GR1 | Jeudi 19h25",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "7 - 10 GR1",
     "price": "$150.00",
@@ -4899,11 +5927,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "summer",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
@@ -4918,11 +5950,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 4 - 6 ans GR1 | Samedi 9h45",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
@@ -4937,11 +5973,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 6 - 9 ans GR1 | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "6 - 9 GR1",
     "price": "$150.00",
@@ -4956,11 +5996,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER | 9 - 12 ans | Samedi 10h40",
-    "city": "SHERBROOKE",
+    "city": "Sherbrooke",
     "sport": "SOCCER",
     "age_range": "9 - 12",
     "price": "$150.00",
@@ -4975,11 +6019,15 @@
       "city": "Sherbrooke",
       "region": "QC",
       "postal_code": "J1N 3V5"
-    }
+    },
+    "season": "spring",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "BROMONT",
+    "city": "Bromont",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -4994,11 +6042,15 @@
       "city": "Bromont",
       "region": "QC",
       "postal_code": "J2L3E7"
-    }
+    },
+    "season": "spring",
+    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "latitude": 45.3217904,
+    "longitude": -72.6458237
   },
   {
     "title": "BROMONT | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "BROMONT",
+    "city": "Bromont",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -5013,11 +6065,15 @@
       "city": "Bromont",
       "region": "QC",
       "postal_code": "J2L3E7"
-    }
+    },
+    "season": "spring",
+    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "latitude": 45.3217904,
+    "longitude": -72.6458237
   },
   {
     "title": "BROMONT | SOCCER | 2 - 4 ans | Dimanche 10h40",
-    "city": "BROMONT",
+    "city": "Bromont",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$145.00",
@@ -5032,11 +6088,15 @@
       "city": "Bromont",
       "region": "QC",
       "postal_code": "J2L3E7"
-    }
+    },
+    "season": "spring",
+    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "latitude": 45.3217904,
+    "longitude": -72.6458237
   },
   {
     "title": "BROMONT | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "BROMONT",
+    "city": "Bromont",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -5051,11 +6111,15 @@
       "city": "Bromont",
       "region": "QC",
       "postal_code": "J2L3E7"
-    }
+    },
+    "season": "spring",
+    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "latitude": 45.3217904,
+    "longitude": -72.6458237
   },
   {
     "title": "COWANSVILLE | MULTISPORT | 2 - 5 ans | Lundi 17h30",
-    "city": "COWANSVILLE",
+    "city": "Cowansville",
     "sport": "MULTISPORT",
     "age_range": "2 - 5",
     "price": "$139.00",
@@ -5070,11 +6134,15 @@
       "city": "Cowansville",
       "region": "QC",
       "postal_code": "J2K2L8"
-    }
+    },
+    "season": "spring",
+    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
+    "latitude": 45.2133625,
+    "longitude": -72.7416703
   },
   {
     "title": "COWANSVILLE | MULTISPORT | 6 - 10 ans | Lundi 18h15",
-    "city": "COWANSVILLE",
+    "city": "Cowansville",
     "sport": "MULTISPORT",
     "age_range": "6 - 10",
     "price": "$139.00",
@@ -5089,6 +6157,10 @@
       "city": "Cowansville",
       "region": "QC",
       "postal_code": "J2K2L8"
-    }
+    },
+    "season": "spring",
+    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
+    "latitude": 45.2133625,
+    "longitude": -72.7416703
   }
 ]
