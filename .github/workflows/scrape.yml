@@ -11,8 +11,11 @@ concurrency:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # ubuntu-latest is 24.04+ where several Puppeteer apt deps (e.g. libasound2) no longer exist → apt exits 100.
+    runs-on: ubuntu-22.04
     timeout-minutes: 180
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -21,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "npm"
           cache-dependency-path: qidigo-scraper/package-lock.json
 
