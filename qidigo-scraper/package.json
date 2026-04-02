@@ -1,0 +1,15 @@
+{
+  "name": "qidigo-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape Qidigo program listings to JSON for WordPress",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "scrape:full": "node scraper.js --full",
+    "geocode-json": "node scraper.js --geocode-json"
+  },
+  "dependencies": {
+    "puppeteer": "^24.40.0"
+  }
+}
