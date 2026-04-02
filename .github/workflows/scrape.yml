@@ -133,7 +133,8 @@ jobs:
 
       - name: Commit updated JSON if changed
         run: |
-          git add qidigo-scraper/programs.json
+          # -f: still stage if someone re-adds programs.json to .gitignore
+          git add -f qidigo-scraper/programs.json
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
