@@ -263,17 +263,17 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31880/group/422588",
-    "location_name": "",
+    "location_name": "Boucherville - Parc de Picardie - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1320 Rue de Picardie",
+      "city": "Boucherville",
+      "region": "QC",
+      "postal_code": "J4B 8K8"
     },
     "season": "spring",
-    "full_address": "",
-    "latitude": null,
-    "longitude": null
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 4 - 6 ans | Samedi 9h45",
@@ -1151,7 +1151,7 @@
   },
   {
     "title": "LASALLE | SOCCER | 7 - 10 ans GR1 | Samedi 10h40",
-    "city": "Lasalle",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "7 - 10 GR1",
     "price": "$155.00",
@@ -1160,17 +1160,17 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32155/group/426327",
-    "location_name": "",
+    "location_name": "Parc Angrignon - LaSalle - Terrain vert",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "3400 Boul des Trinitaires",
+      "city": "Montréal",
+      "region": "QC",
+      "postal_code": "H4E 4J3"
     },
     "season": "spring",
-    "full_address": "",
-    "latitude": null,
-    "longitude": null
+    "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1353,8 +1353,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 4 - 6 ans | Mardi 18h15",
@@ -1376,8 +1376,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 7 - 10 ans | Mardi 19h10",
@@ -1399,8 +1399,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 2 - 4 ans | Lundi 17h30",
@@ -1422,8 +1422,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 4 - 6 ans | Lundi 18h15",
@@ -1445,8 +1445,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 6 - 8 ans | Lundi 19h10",
@@ -1468,8 +1468,8 @@
     },
     "season": "summer",
     "full_address": "5395 avenue Coursol, Longueuil, QC, J3Y4K9",
-    "latitude": 45.4985545,
-    "longitude": -73.4224543
+    "latitude": 45.4988884,
+    "longitude": -73.4231103
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -2446,7 +2446,7 @@
     "schedule": "Tuesday 6:30 PM to 7:20 PM",
     "duration": "from June 2, 2026 to July 28, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32413/group/430056",
     "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
@@ -3458,7 +3458,7 @@
     "schedule": "Sunday 9:00 AM to 9:50 AM",
     "duration": "from April 12, 2026 to May 31, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32152/group/426259",
     "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
