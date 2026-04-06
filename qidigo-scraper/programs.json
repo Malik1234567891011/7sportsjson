@@ -1013,7 +1013,7 @@
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "Montréal",
+    "city": "Lachine",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -1022,17 +1022,17 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32158/group/426366",
-    "location_name": "Collège Saint-Louis - Lachine - Terrain",
+    "location_name": "",
     "address": {
-      "street": "275 Av. 36e",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8T 2A4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
-    "latitude": 45.4364035,
-    "longitude": -73.6972647
+    "full_address": "",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -1146,8 +1146,8 @@
     },
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | MULTISPORT | 4 - 6 ans | Lundi 18h15",
@@ -1169,8 +1169,8 @@
     },
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | MULTISPORT | 7 - 10 ans | Lundi 19h10",
@@ -1192,8 +1192,8 @@
     },
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
@@ -1215,8 +1215,8 @@
     },
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 4 - 6 ans GR1 | Samedi 9h45",
@@ -1238,8 +1238,8 @@
     },
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 7 - 10 ans GR1 | Samedi 10h40",
@@ -1261,8 +1261,8 @@
     },
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -3262,8 +3262,8 @@
     },
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 6 - 8 ans | Samedi 9h50",
@@ -3285,8 +3285,8 @@
     },
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 9 - 12 ans | Samedi 10h40",
@@ -3308,8 +3308,8 @@
     },
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
@@ -4458,8 +4458,8 @@
     },
     "season": "winter",
     "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
-    "latitude": 45.2493499,
-    "longitude": -74.1406796
+    "latitude": 45.248742,
+    "longitude": -74.142142
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 2 - 4 ans | Dimanche 9h05",
@@ -4481,8 +4481,8 @@
     },
     "season": "winter",
     "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
-    "latitude": 45.2493499,
-    "longitude": -74.1406796
+    "latitude": 45.248742,
+    "longitude": -74.142142
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 4 - 6 ans | Dimanche 11h40",
@@ -4504,8 +4504,8 @@
     },
     "season": "winter",
     "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
-    "latitude": 45.2493499,
-    "longitude": -74.1406796
+    "latitude": 45.248742,
+    "longitude": -74.142142
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 4 - 6 ans | Dimanche 9h50",
@@ -4527,8 +4527,8 @@
     },
     "season": "winter",
     "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
-    "latitude": 45.2493499,
-    "longitude": -74.1406796
+    "latitude": 45.248742,
+    "longitude": -74.142142
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 7 - 11 ans | Dimanche 10h45",
@@ -4550,8 +4550,8 @@
     },
     "season": "winter",
     "full_address": "316 rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC, J6T2A9",
-    "latitude": 45.2493499,
-    "longitude": -74.1406796
+    "latitude": 45.248742,
+    "longitude": -74.142142
   },
   {
     "title": "AYLMER | MULTISPORT | 2 - 4 ans | Samedi 9h00",
