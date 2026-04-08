@@ -7,7 +7,9 @@
   "scripts": {
     "scrape": "node scraper.js",
     "scrape:full": "node scraper.js --full",
-    "geocode-json": "node scraper.js --geocode-json"
+    "geocode-json": "node scraper.js --geocode-json",
+    "trials-json": "node scraper.js --trials-json",
+    "trials-json:test": "QIDIGO_TRIALS_LINK_FILTER=445348 node scraper.js --trials-json"
   },
   "dependencies": {
     "puppeteer": "^24.40.0"

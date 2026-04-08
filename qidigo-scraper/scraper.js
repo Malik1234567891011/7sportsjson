@@ -642,7 +642,108 @@ async function scrapeContactPage(page, groupLink) {
   }
 }
 
-function buildFinalProgram(raw, contact, titleParsed) {
+/**
+ * Group page (not /contact) often has "Essai Gratuit …" with an external ticket link in .is-formatted-text.
+ * React may hydrate after networkidle — wait for the group description block, not the first .is-formatted-text on the page.
+ */
+async function scrapeGroupPageTrialLink(page, groupLink) {
+  const url = norm(groupLink).replace(/\/$/, "");
+  if (!url) return "";
+
+  try {
+    await page.setExtraHTTPHeaders({
+      "Accept-Language": "fr-CA,fr;q=0.9,en-CA,en;q=0.8",
+    });
+    await page.goto(url, { waitUntil: "networkidle2", timeout: 90_000 });
+    await page
+      .waitForSelector(".group-header--description", { timeout: 15_000 })
+      .catch(() => {});
+    await page
+      .waitForFunction(
+        () => {
+          const box = document.querySelector(
+            ".group-header--description .is-formatted-text"
+          );
+          if (!box) return false;
+          const t = (box.textContent || "").replace(/\s+/g, " ");
+          return (
+            t.length > 40 &&
+            (/essai/i.test(t) || /free\s*trial/i.test(t) || /gratuit/i.test(t))
+          );
+        },
+        { timeout: 20_000 }
+      )
+      .catch(() => {});
+    await new Promise((r) => setTimeout(r, 800));
+    const href = await page.evaluate(() => {
+      const trialRe =
+        /essai\s*gratuit|essai\s*gratuits|free\s*trial|trial\s*gratuit|gratuit.*essai|essai\s+gratuit/i;
+
+      function resolveHref(a) {
+        const raw = a.getAttribute("href");
+        if (!raw || raw.startsWith("#") || raw.startsWith("mailto:")) return "";
+        try {
+          const abs = new URL(raw, window.location.href).href;
+          if (!/^https?:\/\//i.test(abs) || /qidigo\.com/i.test(abs)) return "";
+          return String(abs).trim();
+        } catch {
+          return "";
+        }
+      }
+
+      const roots = document.querySelectorAll(
+        ".group-header--description .is-formatted-text"
+      );
+      const rootList =
+        roots.length > 0
+          ? Array.from(roots)
+          : [
+              document.querySelector(".group-header--description") ||
+                document.querySelector(".page-group") ||
+                document.body,
+            ].filter(Boolean);
+
+      for (const root of rootList) {
+        if (!root) continue;
+        for (const p of root.querySelectorAll("p")) {
+          const t = (p.textContent || "").replace(/\s+/g, " ");
+          if (!trialRe.test(t)) continue;
+          for (const a of p.querySelectorAll("a[href]")) {
+            const u = resolveHref(a);
+            if (u) return u;
+          }
+        }
+
+        for (const a of root.querySelectorAll("a[href]")) {
+          const u = resolveHref(a);
+          if (!u) continue;
+          let block = a.closest("p, li, .is-formatted-text") || a.parentElement;
+          let blob = "";
+          for (let d = 0; d < 8 && block; d++) {
+            blob += block.textContent || "";
+            block = block.parentElement;
+          }
+          if (trialRe.test(blob.replace(/\s+/g, " "))) return u;
+        }
+      }
+
+      const html = document.documentElement.innerHTML || "";
+      const flat = html.replace(/\s+/g, " ");
+      if (trialRe.test(flat)) {
+        const m = flat.match(
+          /https:\/\/app\.eventnroll\.com[^"'\\s&<>]*/i
+        );
+        if (m) return m[0];
+      }
+      return "";
+    });
+    return norm(href);
+  } catch {
+    return "";
+  }
+}
+
+function buildFinalProgram(raw, contact, titleParsed, trialLink = "") {
   const addr = {
     street: norm(contact.street),
     city: norm(contact.city),
@@ -674,6 +775,7 @@ function buildFinalProgram(raw, contact, titleParsed) {
     address: addr,
     season,
     full_address,
+    trial_link: norm(trialLink),
   };
 }
 
@@ -724,12 +826,107 @@ async function geocodeJsonFileOnly() {
   console.log("Updated:", outPath);
 }
 
+function programNeedsTrialRefill(p) {
+  if (!p || typeof p !== "object") return false;
+  const t = p.trial_link;
+  return t == null || (typeof t === "string" && norm(t) === "");
+}
+
+/**
+ * Fetches trial_link from each program's Qidigo group page (Puppeteer).
+ * @param {{ onlyMissing?: boolean, linkFilter?: string }} options
+ * Env QIDIGO_TRIALS_LINK_FILTER: substring of `link` — only those rows are fetched (quick test, e.g. group id 445348).
+ */
+async function enrichProgramsWithTrials(page, programs, options = {}) {
+  const { onlyMissing = true, linkFilter: linkFilterOpt } = options;
+  const linkFilter = norm(
+    linkFilterOpt ?? process.env.QIDIGO_TRIALS_LINK_FILTER ?? ""
+  );
+  const n = programs.length;
+  for (let i = 0; i < n; i++) {
+    if (onlyMissing && !programNeedsTrialRefill(programs[i])) {
+      continue;
+    }
+    const link = programs[i].link;
+    if (!norm(link)) {
+      programs[i].trial_link = programs[i].trial_link ?? "";
+      continue;
+    }
+    if (
+      linkFilter !== "" &&
+      !String(link).toLowerCase().includes(linkFilter.toLowerCase())
+    ) {
+      continue;
+    }
+    process.stderr.write(
+      `  trial ${i + 1}/${n} ${String(link).slice(-50) || ""}\n`
+    );
+    await throttleContactDelay();
+    let trialLink = "";
+    try {
+      trialLink = await scrapeGroupPageTrialLink(page, link);
+    } catch {
+      trialLink = "";
+    }
+    programs[i].trial_link = norm(trialLink);
+    if (i % 25 === 0 || i === n - 1) {
+      process.stderr.write(`  trials progress ${i + 1}/${n}\n`);
+    }
+  }
+  return programs;
+}
+
+async function trialsJsonFileOnly() {
+  const outPath = path.join(__dirname, "programs.json");
+  if (!fs.existsSync(outPath)) {
+    console.error("Missing programs.json at", outPath);
+    process.exit(1);
+  }
+  const programs = JSON.parse(fs.readFileSync(outPath, "utf8"));
+  if (!Array.isArray(programs)) {
+    console.error("programs.json must be a JSON array");
+    process.exit(1);
+  }
+  const linkFilter = norm(process.env.QIDIGO_TRIALS_LINK_FILTER || "");
+  const need = programs.filter((p) => {
+    if (!programNeedsTrialRefill(p)) return false;
+    if (linkFilter === "") return true;
+    const lk = String(p?.link || "").toLowerCase();
+    return lk.includes(linkFilter.toLowerCase());
+  }).length;
+  console.error(
+    linkFilter !== ""
+      ? `Fetching trial_link for ${need} row(s) matching link filter "${linkFilter}"…`
+      : `Fetching trial_link for ${need} row(s) (skipping non-empty trial_link)…`
+  );
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
+  const page = await browser.newPage();
+  await page.setViewport({ width: 1280, height: 900 });
+  try {
+    await enrichProgramsWithTrials(page, programs, { onlyMissing: true });
+  } finally {
+    await browser.close();
+  }
+  fs.writeFileSync(outPath, JSON.stringify(programs, null, 2), "utf8");
+  console.log("Updated:", outPath);
+}
+
 async function enrichProgramsWithContactPages(page, programsRaw) {
   const out = [];
   for (let i = 0; i < programsRaw.length; i++) {
     process.stderr.write(
       `  contact ${i + 1}/${programsRaw.length} ${programsRaw[i].link?.slice(-40) || ""}\n`
     );
+    await throttleContactDelay();
+    let trialLink = "";
+    try {
+      trialLink = await scrapeGroupPageTrialLink(page, programsRaw[i].link);
+    } catch {
+      trialLink = "";
+    }
     await throttleContactDelay();
     let contact;
     try {
@@ -744,7 +941,7 @@ async function enrichProgramsWithContactPages(page, programsRaw) {
       };
     }
     const parsed = parseFromTitle(programsRaw[i].title);
-    out.push(buildFinalProgram(programsRaw[i], contact, parsed));
+    out.push(buildFinalProgram(programsRaw[i], contact, parsed, trialLink));
   }
   return out;
 }
@@ -847,8 +1044,53 @@ async function scrapeQidigo(options = {}) {
   return programs;
 }
 
-if (process.argv.includes("--geocode-json")) {
+async function trialUrlSmokeTest() {
+  const arg = process.argv.find((a) => a.startsWith("--trial-url="));
+  const u = arg
+    ? decodeURIComponent(arg.slice("--trial-url=".length).trim())
+    : "";
+  if (!norm(u)) {
+    console.error(
+      "Usage: node scraper.js --trial-url=https://www.qidigo.com/u/.../group/..."
+    );
+    process.exit(1);
+  }
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
+  const page = await browser.newPage();
+  await page.setViewport({ width: 1280, height: 900 });
+  try {
+    const href = await scrapeGroupPageTrialLink(page, u);
+    if (href) {
+      console.log(href);
+    } else {
+      console.error("(no trial link detected)");
+      process.exitCode = 1;
+    }
+  } finally {
+    await browser.close();
+  }
+}
+
+const trialUrlArg = process.argv.some((a) => a.startsWith("--trial-url="));
+if (trialUrlArg) {
+  trialUrlSmokeTest()
+    .then(() => process.exit(process.exitCode || 0))
+    .catch((err) => {
+      console.error(err);
+      process.exit(1);
+    });
+} else if (process.argv.includes("--geocode-json")) {
   geocodeJsonFileOnly()
+    .then(() => process.exit(0))
+    .catch((err) => {
+      console.error(err);
+      process.exit(1);
+    });
+} else if (process.argv.includes("--trials-json")) {
+  trialsJsonFileOnly()
     .then(() => process.exit(0))
     .catch((err) => {
       console.error(err);

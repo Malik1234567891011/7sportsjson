@@ -121,6 +121,10 @@ jobs:
         working-directory: qidigo-scraper
         run: npm run scrape:full
 
+      - name: Enrich with free trial links
+        working-directory: qidigo-scraper
+        run: npm run trials-json
+
       - name: Validate JSON before commit
         run: |
           node -e "
