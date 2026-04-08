@@ -125,11 +125,14 @@ jobs:
         working-directory: qidigo-scraper
         run: npm run trials-json
 
+      - name: Copy JSON to repo root for WordPress
+        run: cp qidigo-scraper/programs.json programs.json
+
       - name: Validate JSON before commit
         run: |
           node -e "
             const fs = require('fs');
-            const data = JSON.parse(fs.readFileSync('qidigo-scraper/programs.json', 'utf8'));
+            const data = JSON.parse(fs.readFileSync('programs.json', 'utf8'));
             if (!Array.isArray(data) || data.length === 0) {
               throw new Error('Invalid or empty JSON');
             }
@@ -137,8 +140,7 @@ jobs:
 
       - name: Commit updated JSON if changed
         run: |
-          # -f: still stage if someone re-adds programs.json to .gitignore
-          git add -f qidigo-scraper/programs.json
+          git add -f qidigo-scraper/programs.json programs.json
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
