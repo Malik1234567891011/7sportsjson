@@ -121,10 +121,6 @@ jobs:
         working-directory: qidigo-scraper
         run: npm run scrape:full
 
-      - name: Enrich with free trial links
-        working-directory: qidigo-scraper
-        run: npm run trials-json
-
       - name: Copy JSON to repo root for WordPress
         run: cp qidigo-scraper/programs.json programs.json
 

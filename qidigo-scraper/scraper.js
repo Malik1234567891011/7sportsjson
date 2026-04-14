@@ -986,9 +986,13 @@ async function scrapeQidigo(options = {}) {
     for (let i = 0; i < activityUrls.length; i++) {
       const u = activityUrls[i];
       process.stderr.write(`[${i + 1}/${activityUrls.length}] ${u}\n`);
-      const rows = await scrapeActivityPage(page, u);
-      process.stderr.write(`  -> ${rows.length} group(s)\n`);
-      all.push(...rows);
+      try {
+        const rows = await scrapeActivityPage(page, u);
+        process.stderr.write(`  -> ${rows.length} group(s)\n`);
+        all.push(...rows);
+      } catch (err) {
+        process.stderr.write(`  -> SKIP (error: ${err.message?.slice(0, 80)})\n`);
+      }
     }
 
     const programsRaw = dedupeByLink(all);
