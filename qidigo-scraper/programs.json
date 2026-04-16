@@ -188,8 +188,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
@@ -212,8 +212,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR3 | Jeudi 17h45",
@@ -236,8 +236,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
@@ -260,8 +260,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
@@ -284,8 +284,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 2 - 4 ans | Samedi 9h00",
@@ -308,8 +308,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 4 - 6 ans | Samedi 9h45",
@@ -332,8 +332,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 7 - 10 ans | Samedi 10h40",
@@ -356,8 +356,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 2 - 4 ans | Samedi 9h00",
@@ -380,8 +380,8 @@
     "season": "spring",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 4 - 6 ans | Samedi 9h45",
@@ -404,8 +404,8 @@
     "season": "spring",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 7 - 10 ans | Samedi 10h40",
@@ -428,8 +428,8 @@
     "season": "spring",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
@@ -466,18 +466,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32324/group/428943",
-    "location_name": "",
+    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "Rue Albert",
+      "city": "Châteauguay",
+      "region": "QC",
+      "postal_code": "J6K 2K6"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.349296,
+    "longitude": -73.7389741
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
@@ -538,18 +538,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32323/group/428938",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.349296,
-    "longitude": -73.7389741
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -562,18 +562,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32323/group/428939",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.349296,
-    "longitude": -73.7389741
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 6 - 8 ans | Dimanche 10h40",
@@ -730,18 +730,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32322/group/428927",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.349296,
-    "longitude": -73.7389741
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Samedi 9h45",
@@ -754,18 +754,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32322/group/428926",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.349296,
-    "longitude": -73.7389741
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Samedi 11h25",
@@ -778,18 +778,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32322/group/428928",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.349296,
-    "longitude": -73.7389741
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans GR1 | Samedi 9h00",
@@ -865,7 +865,7 @@
   },
   {
     "title": "DOLLARD-DES-ORMEAUX | MULTISPORT | 2 - 4 ans | Mercredi 17h30",
-    "city": "Dollard-Des Ormeaux",
+    "city": "Dollard-Des-Ormeaux",
     "sport": "MULTISPORT",
     "age_range": "2 - 4",
     "price": "$140.00",
@@ -874,18 +874,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33334/group/445476",
-    "location_name": "Parc Centennial - Dollard-des-Ormeaux - Terrain vert",
+    "location_name": "",
     "address": {
-      "street": "3000 rue Lake",
-      "city": "Dollard-Des Ormeaux",
-      "region": "QC",
-      "postal_code": "H9B 2M1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "3000 rue Lake, Dollard-Des Ormeaux, QC, H9B 2M1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.4873714,
-    "longitude": -73.8175155
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "DOLLARD-DES-ORMEAUX | MULTISPORT | 4 - 6 ans | Mercredi 18h15",
@@ -1129,7 +1129,7 @@
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "Montréal",
+    "city": "Lachine",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR1",
     "price": "$155.00",
@@ -1138,22 +1138,22 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32158/group/426366",
-    "location_name": "Collège Saint-Louis - Lachine - Terrain",
+    "location_name": "",
     "address": {
-      "street": "275 Av. 36e",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8T 2A4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.4364035,
-    "longitude": -73.6972647
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LACHINE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "Montréal",
+    "city": "Lachine",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$155.00",
@@ -1162,18 +1162,18 @@
     "age": "2 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32158/group/426367",
-    "location_name": "Collège Saint-Louis - Lachine - Terrain",
+    "location_name": "",
     "address": {
-      "street": "275 Av. 36e",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8T 2A4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.4364035,
-    "longitude": -73.6972647
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LACHINE | SOCCER | 4 - 6 ans GR1 | Mardi 17h15",
@@ -1268,8 +1268,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 4 - 6 ans | Lundi 18h15",
@@ -1292,8 +1292,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 7 - 10 ans | Lundi 19h10",
@@ -1316,8 +1316,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
@@ -1340,8 +1340,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 4 - 6 ans GR1 | Samedi 9h45",
@@ -1364,8 +1364,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER | 7 - 10 ans GR1 | Samedi 10h40",
@@ -1388,8 +1388,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4466031,
-    "longitude": -73.602256
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1738,18 +1738,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32180/group/426712",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5117465,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h40",
@@ -1762,18 +1762,18 @@
     "age": "6 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32180/group/426713",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5117465,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Jeudi 17h30",
@@ -1882,18 +1882,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32161/group/426389",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "spring",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5117465,
+    "longitude": -73.5042953
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -2962,18 +2962,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32444/group/430780",
-    "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
+    "location_name": "",
     "address": {
-      "street": "12936 Rue Yamaska",
-      "city": "Saint-Hyacinthe",
-      "region": "QC",
-      "postal_code": "J2T 1B3"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.6323101,
-    "longitude": -72.9372755
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 4 - 6 ans GR1 | Mercredi 17h30",
@@ -3500,8 +3500,8 @@
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 6 - 8 ans | Samedi 9h50",
@@ -3524,8 +3524,8 @@
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | HOCKEY | 9 - 12 ans | Samedi 10h40",
@@ -3548,8 +3548,8 @@
     "season": "spring",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.251192,
-    "longitude": -74.1028358
+    "latitude": 45.2427096,
+    "longitude": -74.1259001
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
@@ -4258,18 +4258,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31908/group/423180",
-    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
+    "location_name": "",
     "address": {
-      "street": "901 chemin Tiffin",
-      "city": "Longueuil",
-      "region": "QC",
-      "postal_code": "J4P 3G"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5117465,
-    "longitude": -73.5042953
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans GR2 | Dimanche 10h40",
@@ -4282,18 +4282,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31908/group/423184",
-    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
+    "location_name": "",
     "address": {
-      "street": "901 chemin Tiffin",
-      "city": "Longueuil",
-      "region": "QC",
-      "postal_code": "J4P 3G"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5117465,
-    "longitude": -73.5042953
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -5257,7 +5257,7 @@
   },
   {
     "title": "HULL | MULTISPORT | 4 - 6 ans | Mercredi 18h30",
-    "city": "Hull",
+    "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -5266,22 +5266,22 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31962/group/423650",
-    "location_name": "",
+    "location_name": "Parc Bisson - Hull - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "Rue Froment",
+      "city": "Gatineau",
+      "region": "QC",
+      "postal_code": "J8Y 6G2"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "Hull",
+    "city": "Gatineau",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -5290,18 +5290,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31961/group/423643",
-    "location_name": "",
+    "location_name": "Parc Bisson - Hull - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "Rue Froment",
+      "city": "Gatineau",
+      "region": "QC",
+      "postal_code": "J8Y 6G2"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4572738,
+    "longitude": -75.7565738
   },
   {
     "title": "HULL | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -5626,18 +5626,18 @@
     "age": "4 years and older",
     "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/31960/group/423633",
-    "location_name": "Parc Israël Larochelle - Farham - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Parc Israël Larochelle",
-      "city": "Farnham",
-      "region": "QC",
-      "postal_code": "J2N 1M9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Parc Israël Larochelle, Farnham, QC, J2N 1M9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2827003,
-    "longitude": -72.9677934
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "FARNHAM | MULTISPORT | 7 - 10 ans | MARDI 19h10",
@@ -6442,18 +6442,18 @@
     "age": "9 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33008/group/440028",
-    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
+    "location_name": "",
     "address": {
-      "street": "2100 Chem. de Sainte-Catherine",
-      "city": "Sherbrooke",
-      "region": "QC",
-      "postal_code": "J1N 3V5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3702029,
-    "longitude": -71.9319291
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
