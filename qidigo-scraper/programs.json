@@ -944,7 +944,7 @@
     "schedule": "Thursday 5:45 PM to 6:25 PM",
     "duration": "from May 14, 2026 to July 2, 2026",
     "age": "2 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32575/group/433462",
     "location_name": "Parc Antoine-Labelle - Franklin - Terrain",
     "address": {
@@ -1268,8 +1268,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | MULTISPORT | 4 - 6 ans | Lundi 18h15",
@@ -1292,8 +1292,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | MULTISPORT | 7 - 10 ans | Lundi 19h10",
@@ -1316,8 +1316,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
@@ -1340,8 +1340,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 4 - 6 ans GR1 | Samedi 9h45",
@@ -1364,8 +1364,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LASALLE | SOCCER | 7 - 10 ans GR1 | Samedi 10h40",
@@ -1388,8 +1388,8 @@
     "season": "spring",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4441901,
-    "longitude": -73.6020959
+    "latitude": 45.4466031,
+    "longitude": -73.602256
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1858,18 +1858,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32161/group/426388",
-    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
+    "location_name": "",
     "address": {
-      "street": "901 chemin Tiffin",
-      "city": "Longueuil",
-      "region": "QC",
-      "postal_code": "J4P 3G"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5117465,
-    "longitude": -73.5042953
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | SAMEDI 9h45",
@@ -1882,22 +1882,22 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32161/group/426389",
-    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
+    "location_name": "",
     "address": {
-      "street": "901 chemin Tiffin",
-      "city": "Longueuil",
-      "region": "QC",
-      "postal_code": "J4P 3G"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5117465,
-    "longitude": -73.5042953
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -1906,18 +1906,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33333/group/445473",
-    "location_name": "Collège Beaubois - Pierrefonds - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5104838,
-    "longitude": -73.6736724
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -2072,7 +2072,7 @@
     "schedule": "Wednesday 6:30 PM to 7:20 PM",
     "duration": "from June 3, 2026 to August 5, 2026",
     "age": "4 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32182/group/443870",
     "location_name": "Terrain de Soccer - Pointe-des-Cascades - Terrain Soccer",
     "address": {
@@ -2314,18 +2314,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32573/group/433294",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Terrain synthétique",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5932515,
+    "longitude": -73.347145
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -2362,18 +2362,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32572/group/443590",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Terrain synthétique",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "spring",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5932515,
+    "longitude": -73.347145
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR3 | Mardi 17h45",
@@ -3673,7 +3673,7 @@
   },
   {
     "title": "VALLEYFIELD | SOCCER | 2 - 4 ans GR2 | Dimanche 9h55",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "SOCCER",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -3682,18 +3682,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33140/group/442382",
-    "location_name": "École Edgar-Hébert - Salaberry-de-Valleyfield - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "161 rue Saint-Thomas",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6T4K1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2496202,
-    "longitude": -74.1282838
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | SOCCER | 4 - 6 ans GR1 | Dimanche 9h00",
@@ -4280,7 +4280,7 @@
     "schedule": "Sunday 10:40 AM to 11:20 AM",
     "duration": "from April 26, 2026 to June 14, 2026",
     "age": "2 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31908/group/423184",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
@@ -4544,7 +4544,7 @@
     "schedule": "Sunday 10:40 AM to 11:20 AM",
     "duration": "from April 12, 2026 to May 31, 2026",
     "age": "2 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32403/group/430008",
     "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
@@ -4681,7 +4681,7 @@
   },
   {
     "title": "AYLMER | MULTISPORT | 4 - 6 ans | Samedi 9h45",
-    "city": "Gatineau",
+    "city": "Aylmer",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$145.00",
@@ -4690,18 +4690,18 @@
     "age": "4 years - 15 years",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/32873/group/437850",
-    "location_name": "South Hull Primary School - Aylmer - Terrain",
+    "location_name": "",
     "address": {
-      "street": "86 promenade Crescent",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J9H1T6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3973803,
-    "longitude": -75.8039374
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "AYLMER | MULTISPORT | 6 - 9 ans | Samedi 10h40",
@@ -5000,7 +5000,7 @@
     "schedule": "Tuesday 5:00 PM to 5:40 PM",
     "duration": "from June 9, 2026 to August 11, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31813/group/422053",
     "location_name": "Parc Pierre Lafontaine - Gatineau - Terrain",
     "address": {
@@ -5410,18 +5410,42 @@
     "age": "4 years - 15 years",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/32391/group/429779",
-    "location_name": "Parc des Sables - L'Ange-Gardien - Terrain",
+    "location_name": "",
     "address": {
-      "street": "30 Chem. des Bouleaux",
-      "city": "L'Ange-Gardien",
-      "region": "QC",
-      "postal_code": "J8L 0G2"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5557654,
-    "longitude": -75.5073133
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "title": "L'ANGE-GARDIEN | MULTISPORT | 4 - 6 ans GR 2 | Jeudi 18h30",
+    "city": "L'Ange-Gardien",
+    "sport": "MULTISPORT",
+    "age_range": "4 - 6 GR 2",
+    "price": "$142.00",
+    "schedule": "Thursday 6:30 PM to 7:20 PM",
+    "duration": "from June 11, 2026 to July 30, 2026",
+    "age": "4 years - 15 years",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSO/activity/32391/group/448373",
+    "location_name": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
+    },
+    "season": "summer",
+    "full_address": "",
+    "trial_link": "",
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "L'ANGE-GARDIEN | MULTISPORT | 7 - 12 ans | Jeudi 19h25",
@@ -5866,18 +5890,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33024/group/440382",
-    "location_name": "",
+    "location_name": "Plage Roxton - Terrain vert",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2069 avenue du Lac Ouest",
+      "city": "Roxton Pond",
+      "region": "QC",
+      "postal_code": "J0E 1Z0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "2069 avenue du Lac Ouest, Roxton Pond, QC, J0E 1Z0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4592652,
+    "longitude": -72.6560127
   },
   {
     "title": "ROXTON POND | MULTISPORT | 4 - 6 ans | Mardi 18h15",
@@ -5890,18 +5914,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33024/group/440662",
-    "location_name": "",
+    "location_name": "Plage Roxton - Terrain vert",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2069 avenue du Lac Ouest",
+      "city": "Roxton Pond",
+      "region": "QC",
+      "postal_code": "J0E 1Z0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "2069 avenue du Lac Ouest, Roxton Pond, QC, J0E 1Z0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4592652,
+    "longitude": -72.6560127
   },
   {
     "title": "ROXTON POND | MULTISPORT | 7 - 10 ans | Mardi 19h10",
