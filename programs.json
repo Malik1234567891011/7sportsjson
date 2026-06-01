@@ -10,18 +10,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33453/group/447572",
-    "location_name": "",
+    "location_name": "Parc Donald-Martin - Acton Vale - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "775 Rue Pelchat",
+      "city": "Acton Vale",
+      "region": "QC",
+      "postal_code": "J0H 1A0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "775 Rue Pelchat, Acton Vale, QC, J0H 1A0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6541582,
+    "longitude": -72.5610662
   },
   {
     "title": "ACTON VALE | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
@@ -34,18 +34,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33453/group/447573",
-    "location_name": "",
+    "location_name": "Parc Donald-Martin - Acton Vale - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "775 Rue Pelchat",
+      "city": "Acton Vale",
+      "region": "QC",
+      "postal_code": "J0H 1A0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "775 Rue Pelchat, Acton Vale, QC, J0H 1A0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6541582,
+    "longitude": -72.5610662
   },
   {
     "title": "ACTON VALE | MULTISPORT | 7 - 10 ans | Dimanche 10h40",
@@ -490,18 +490,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33626/group/449413",
-    "location_name": "Intersection Voltigeurs-Richelieu - Terrain",
+    "location_name": "",
     "address": {
-      "street": "5 rue des Voltigeurs",
-      "city": "Chambly",
-      "region": "QC",
-      "postal_code": "J3L3H3"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "5 rue des Voltigeurs, Chambly, QC, J3L3H3",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.447575,
-    "longitude": -73.2702449
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHAMBLY | MULTISPORT | 2 - 4 ans | SAMEDI 9h00",
@@ -514,18 +514,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33907/group/452428",
-    "location_name": "Intersection Voltigeurs-Richelieu - Terrain",
+    "location_name": "",
     "address": {
-      "street": "5 rue des Voltigeurs",
-      "city": "Chambly",
-      "region": "QC",
-      "postal_code": "J3L3H3"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "5 rue des Voltigeurs, Chambly, QC, J3L3H3",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.447575,
-    "longitude": -73.2702449
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHAMBLY | MULTISPORT | 4 - 6 ans | SAMEDI 9h45",
@@ -1393,7 +1393,7 @@
   },
   {
     "title": "LACHINE | SOCCER | 4 - 6 ans GR2 | Mardi 18h10",
-    "city": "Lachine",
+    "city": "Montréal",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$155.00",
@@ -1402,18 +1402,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32158/group/426372",
-    "location_name": "",
+    "location_name": "Collège Saint-Louis - Lachine - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "275 Av. 36e",
+      "city": "Montréal",
+      "region": "QC",
+      "postal_code": "H8T 2A4"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "275 Av. 36e, Montréal, QC, H8T 2A4",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4364035,
+    "longitude": -73.6972647
   },
   {
     "title": "LACHINE | SOCCER | 6 - 8 ans | Mardi 19h05",
@@ -3394,18 +3394,18 @@
     "age": "2 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32799/group/436658",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Terrain",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans GR2 | Lundi 17h45",
@@ -3562,18 +3562,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32813/group/436963",
-    "location_name": "",
+    "location_name": "École secondaire Marcellin-Champagnat - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "14 Chem. des Patriotes E",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J2X 5P8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 7 - 10 ans | Jeudi 19h25",
@@ -3586,18 +3586,18 @@
     "age": "7 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32813/group/436965",
-    "location_name": "",
+    "location_name": "École secondaire Marcellin-Champagnat - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "14 Chem. des Patriotes E",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J2X 5P8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
@@ -4081,7 +4081,7 @@
   },
   {
     "title": "VALLEYFIELD | SOCCER 2 | 4 - 6 ans GR1 | Dimanche 9h45",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "SOCCER 2",
     "age_range": "4 - 6 GR1",
     "price": "$142.00",
@@ -4090,22 +4090,22 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33821/group/451980",
-    "location_name": "École Edgar-Hébert - Salaberry-de-Valleyfield - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "161 rue Saint-Thomas",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6T4K1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2496202,
-    "longitude": -74.1282838
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | SOCCER 2 | 7 - 9 ans GR1 | Dimanche 10h40",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "SOCCER 2",
     "age_range": "7 - 9 GR1",
     "price": "$142.00",
@@ -4114,18 +4114,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33821/group/451983",
-    "location_name": "École Edgar-Hébert - Salaberry-de-Valleyfield - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "161 rue Saint-Thomas",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6T4K1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "161 rue Saint-Thomas, Salaberry-de-Valleyfield, QC, J6T4K1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2496202,
-    "longitude": -74.1282838
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | SOCCER 2 | 9 - 12 ans GR1 | Dimanche 10h40",
@@ -5842,18 +5842,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33166/group/442810",
-    "location_name": "Centre Sportif La Ruche - Magog - Terrain",
+    "location_name": "",
     "address": {
-      "street": "1255 boulevard des Étudiants",
-      "city": "Magog",
-      "region": "QC",
-      "postal_code": "J1X3Y6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "1255 boulevard des Étudiants, Magog, QC, J1X3Y6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2774475,
-    "longitude": -72.1402938
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER | 2 - 4 ans GR2 | LUNDI 17h45",
