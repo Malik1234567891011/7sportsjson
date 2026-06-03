@@ -24,54 +24,6 @@
     "longitude": -72.5610662
   },
   {
-    "title": "ACTON VALE | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "Acton Vale",
-    "sport": "MULTISPORT",
-    "age_range": "4 - 6",
-    "price": "$135.00",
-    "schedule": "Sunday 9:45 AM to 10:35 AM",
-    "duration": "from June 7, 2026 to July 26, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33453/group/447573",
-    "location_name": "Parc Donald-Martin - Acton Vale - Terrain",
-    "address": {
-      "street": "775 Rue Pelchat",
-      "city": "Acton Vale",
-      "region": "QC",
-      "postal_code": "J0H 1A0"
-    },
-    "season": "summer",
-    "full_address": "775 Rue Pelchat, Acton Vale, QC, J0H 1A0",
-    "trial_link": "",
-    "latitude": 45.6541582,
-    "longitude": -72.5610662
-  },
-  {
-    "title": "ACTON VALE | MULTISPORT | 7 - 10 ans | Dimanche 10h40",
-    "city": "Acton Vale",
-    "sport": "MULTISPORT",
-    "age_range": "7 - 10",
-    "price": "$135.00",
-    "schedule": "Sunday 10:40 AM to 11:30 AM",
-    "duration": "from June 7, 2026 to July 26, 2026",
-    "age": "7 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33453/group/447574",
-    "location_name": "Parc Donald-Martin - Acton Vale - Terrain",
-    "address": {
-      "street": "775 Rue Pelchat",
-      "city": "Acton Vale",
-      "region": "QC",
-      "postal_code": "J0H 1A0"
-    },
-    "season": "summer",
-    "full_address": "775 Rue Pelchat, Acton Vale, QC, J0H 1A0",
-    "trial_link": "",
-    "latitude": 45.6541582,
-    "longitude": -72.5610662
-  },
-  {
     "title": "BELOEIL | MULTISPORT | 2 - 4 ans GR1 | Dimanche 9h00",
     "city": "Beloeil",
     "sport": "MULTISPORT",
@@ -188,8 +140,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
@@ -212,8 +164,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR3 | Jeudi 17h45",
@@ -236,8 +188,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
@@ -260,8 +212,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 4 - 6 ans GR2 | Jeudi 18h30",
@@ -284,8 +236,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
@@ -308,8 +260,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 2 - 4 ans | Samedi 9h00",
@@ -332,8 +284,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER 2 | 4 - 6 ans | Samedi 9h45",
@@ -356,8 +308,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER | 7 - 10 ans | Samedi 10h40",
@@ -380,8 +332,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 2 - 4 ans | Samedi 9h00",
@@ -404,8 +356,8 @@
     "season": "spring",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER GR1 | 4 - 6 ans | Samedi 9h45",
@@ -428,8 +380,8 @@
     "season": "spring",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "CHAMBLY | MULTISPORT | 2 - 4 ans GR1 | Mercredi 17h00",
@@ -1760,7 +1712,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from May 30, 2026 to July 18, 2026",
     "age": "2 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32163/group/426393",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
@@ -1820,8 +1772,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 4 - 6 ans | Mardi 18h15",
@@ -1844,8 +1796,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 2 - 4 ans | Lundi 17h30",
@@ -1856,7 +1808,7 @@
     "schedule": "Monday 5:30 PM to 6:10 PM",
     "duration": "from June 1, 2026 to July 20, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33174/group/442909",
     "location_name": "Parc Raymond-Comeau - Saint-Hubert - Terrain vert",
     "address": {
@@ -1868,8 +1820,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 2 - 4 ans GR2 | Lundi 17h30",
@@ -1892,8 +1844,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 4 - 6 ans | Lundi 18h15",
@@ -1904,7 +1856,7 @@
     "schedule": "Monday 6:15 PM to 7:05 PM",
     "duration": "from June 1, 2026 to July 20, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33174/group/442910",
     "location_name": "Parc Raymond-Comeau - Saint-Hubert - Terrain vert",
     "address": {
@@ -1916,8 +1868,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "SAINT-HUBERT | SOCCER | 6 - 8 ans | Lundi 19h10",
@@ -1940,8 +1892,8 @@
     "season": "summer",
     "full_address": "3941 boulevard Gaétan-Boucher, Longueuil, QC, J3Y8Y4",
     "trial_link": "",
-    "latitude": 45.5018441,
-    "longitude": -73.4001939
+    "latitude": 45.5017582,
+    "longitude": -73.4014973
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -2314,18 +2266,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32172/group/426476",
-    "location_name": "",
+    "location_name": "Centre Harpell - Ste-Anne-de-Bellevue - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "60 rue Saint-Pierre",
+      "city": "Sainte-Anne-de-Bellevue",
+      "region": "QC",
+      "postal_code": "H9X1X9"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
@@ -3250,18 +3202,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32444/group/430779",
-    "location_name": "",
+    "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "12936 Rue Yamaska",
+      "city": "Saint-Hyacinthe",
+      "region": "QC",
+      "postal_code": "J2T 1B3"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 2 - 4 ans GR2 | Mercredi 17h45",
@@ -3274,18 +3226,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32444/group/430780",
-    "location_name": "",
+    "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "12936 Rue Yamaska",
+      "city": "Saint-Hyacinthe",
+      "region": "QC",
+      "postal_code": "J2T 1B3"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-HYACINTHE | SOCCER | 4 - 6 ans GR1 | Mercredi 17h30",
@@ -3610,18 +3562,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32813/group/436963",
-    "location_name": "École secondaire Marcellin-Champagnat - Terrain",
+    "location_name": "",
     "address": {
-      "street": "14 Chem. des Patriotes E",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J2X 5P8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 7 - 10 ans | Jeudi 19h25",
@@ -3634,18 +3586,18 @@
     "age": "7 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32813/group/436965",
-    "location_name": "École secondaire Marcellin-Champagnat - Terrain",
+    "location_name": "",
     "address": {
-      "street": "14 Chem. des Patriotes E",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J2X 5P8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR1 | Samedi 9h00",
@@ -3656,20 +3608,20 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from May 30, 2026 to July 25, 2026",
     "age": "2 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32807/group/436675",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Terrain",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR2 | Samedi 9h55",
@@ -3682,18 +3634,18 @@
     "age": "2 years and older",
     "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32807/group/436683",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Terrain",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "spring",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 4 - 6 ans GR1 | Samedi 9h00",
@@ -4849,7 +4801,7 @@
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR2 | Lundi 18h30",
-    "city": "Gatineau",
+    "city": "Aylmer",
     "sport": "SOCCER",
     "age_range": "4 - 6 GR2",
     "price": "$145.00",
@@ -4858,18 +4810,18 @@
     "age": "4 years - 15 years",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/32870/group/437833",
-    "location_name": "South Hull Primary School - Aylmer - Terrain",
+    "location_name": "",
     "address": {
-      "street": "86 promenade Crescent",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J9H1T6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3973803,
-    "longitude": -75.8039374
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "AYLMER | SOCCER | 7 - 10 ans | Lundi 18h45",
@@ -5336,7 +5288,7 @@
     "schedule": "Tuesday 6:30 PM to 7:20 PM",
     "duration": "from June 9, 2026 to August 11, 2026",
     "age": "4 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31813/group/451500",
     "location_name": "Parc Pierre Lafontaine - Gatineau - Terrain",
     "address": {
@@ -5552,7 +5504,7 @@
     "schedule": "Thursday 5:00 PM to 5:40 PM",
     "duration": "from June 11, 2026 to July 30, 2026",
     "age": "2 years and older",
-    "remaining_spots": "5",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/32391/group/429776",
     "location_name": "Parc des Sables - L'Ange-Gardien - Terrain",
     "address": {
@@ -5890,18 +5842,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33165/group/442809",
-    "location_name": "Centre Sportif La Ruche - Magog - Terrain",
+    "location_name": "",
     "address": {
-      "street": "1255 boulevard des Étudiants",
-      "city": "Magog",
-      "region": "QC",
-      "postal_code": "J1X3Y6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "1255 boulevard des Étudiants, Magog, QC, J1X3Y6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2774475,
-    "longitude": -72.1402938
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "MAGOG | SOCCER | 2 - 4 ans GR1 | LUNDI 17h00",
@@ -6392,7 +6344,7 @@
     "schedule": "Thursday 6:30 PM to 7:20 PM",
     "duration": "from June 25, 2026 to August 13, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33010/group/440044",
     "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
     "address": {
