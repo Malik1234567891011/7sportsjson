@@ -10,18 +10,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34342/group/455257",
-    "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
+    "location_name": "",
     "address": {
-      "street": "2000 rue Bourgogne",
-      "city": "Chambly",
-      "region": "QC",
-      "postal_code": "J3L1Z4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4483467,
-    "longitude": -73.2936944
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "CHAMBLY | MULTISPORTS | 4 - 6 ans | Samedi 10h15",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1090,18 +1090,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34346/group/459130",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORTS | 4 - 6 ans | Samedi 9h50",
@@ -2266,18 +2266,18 @@
     "age": "2 years and older",
     "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32181/group/426718",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
@@ -2290,18 +2290,18 @@
     "age": "4 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32181/group/426719",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Jeudi 17h30",
@@ -2314,18 +2314,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32174/group/426486",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Jeudi 18h15",
@@ -2492,8 +2492,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -2516,8 +2516,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 6 - 9 ans | Dimanche 10h40",
@@ -2540,8 +2540,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 2 - 4 ans GR1 | Mercredi 17h00",
@@ -2804,8 +2804,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -2828,8 +2828,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -2852,8 +2852,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -2876,8 +2876,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -3284,12 +3284,12 @@
     "season": "summer",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.2418963,
-    "longitude": -74.128493
+    "latitude": 45.2460705,
+    "longitude": -74.1205157
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR1",
     "price": "$142.00",
@@ -3298,22 +3298,22 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33147/group/442546",
-    "location_name": "Parc Léo-Lemay - Valleyfield - Terrain",
+    "location_name": "",
     "address": {
-      "street": "23 rue Purvis",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6S2B9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2784722,
-    "longitude": -74.0815712
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR2 | Mardi 17h45",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "2 - 4 GR2",
     "price": "$142.00",
@@ -3322,22 +3322,22 @@
     "age": "2 years and older",
     "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33147/group/442550",
-    "location_name": "Parc Léo-Lemay - Valleyfield - Terrain",
+    "location_name": "",
     "address": {
-      "street": "23 rue Purvis",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6S2B9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2784722,
-    "longitude": -74.0815712
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 4 - 6 ans | Mardi 18h30",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "4 - 6",
     "price": "$142.00",
@@ -3346,22 +3346,22 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33147/group/442551",
-    "location_name": "Parc Léo-Lemay - Valleyfield - Terrain",
+    "location_name": "",
     "address": {
-      "street": "23 rue Purvis",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6S2B9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2784722,
-    "longitude": -74.0815712
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 4 - 6 ans GR2 | Mardi 18h30",
-    "city": "Salaberry-De-Valleyfield",
+    "city": "Valleyfield",
     "sport": "MULTISPORT",
     "age_range": "4 - 6 GR2",
     "price": "$142.00",
@@ -3370,18 +3370,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33147/group/450614",
-    "location_name": "Parc Léo-Lemay - Valleyfield - Terrain",
+    "location_name": "",
     "address": {
-      "street": "23 rue Purvis",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6S2B9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "23 rue Purvis, Salaberry-de-Valleyfield, QC, J6S2B9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2784722,
-    "longitude": -74.0815712
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 7 - 10 ans | Mardi 19h25",
@@ -3889,7 +3889,7 @@
   },
   {
     "title": "8 SEMAINES: GATINEAU | MULTISPORT GR4 | 2 - 4 ans | Dimanche 9h00",
-    "city": "8 Semaines: Gatineau",
+    "city": "Gatineau",
     "sport": "MULTISPORT GR4",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -3898,18 +3898,18 @@
     "age": "2 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31817/group/455824",
-    "location_name": "",
+    "location_name": "Parc Pierre Lafontaine - Gatineau - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "251 rue Saint-Antoine",
+      "city": "Gatineau",
+      "region": "QC",
+      "postal_code": "J8T 3M8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "251 rue Saint-Antoine, Gatineau, QC, J8T 3M8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.471279,
+    "longitude": -75.698797
   },
   {
     "title": "10 SEMAINES: GATINEAU | MULTISPORT GR1 | 2 - 4 ans | Dimanche 9h00",
