@@ -577,7 +577,7 @@
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$150.00",
@@ -586,18 +586,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34261/group/458049",
-    "location_name": "Collège Beaubois - Pierrefonds - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -610,18 +610,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34345/group/455258",
-    "location_name": "Centre Harpell - Ste-Anne-de-Bellevue - Salle communautaire",
+    "location_name": "",
     "address": {
-      "street": "60 rue Saint-Pierre",
-      "city": "Sainte-Anne-de-Bellevue",
-      "region": "QC",
-      "postal_code": "H9X1X9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12677",
-    "latitude": 45.4056172,
-    "longitude": -73.9513
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 4 - 6 ans | Samedi 9h50",
@@ -658,18 +658,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34326/group/455236",
-    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "125 place Charles-Lemoyne",
-      "city": "Sainte-Catherine",
-      "region": "QC",
-      "postal_code": "J5C 0A1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3999449,
-    "longitude": -73.5475581
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORTS | 4 - 6 ans | Dimanche 9h45",
@@ -682,18 +682,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34326/group/459121",
-    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "125 place Charles-Lemoyne",
-      "city": "Sainte-Catherine",
-      "region": "QC",
-      "postal_code": "J5C 0A1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3999449,
-    "longitude": -73.5475581
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-CATHERINE | SOCCER | 2 - 4 ans | Dimanche 10h40",
@@ -706,18 +706,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34327/group/459122",
-    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "125 place Charles-Lemoyne",
-      "city": "Sainte-Catherine",
-      "region": "QC",
-      "postal_code": "J5C 0A1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3999449,
-    "longitude": -73.5475581
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-CATHERINE | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -730,18 +730,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34327/group/459124",
-    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "125 place Charles-Lemoyne",
-      "city": "Sainte-Catherine",
-      "region": "QC",
-      "postal_code": "J5C 0A1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3999449,
-    "longitude": -73.5475581
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 4 - 6 ans | Samedi 9h00",
@@ -754,18 +754,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34833/group/467081",
-    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "1800 rue Savaria",
-      "city": "Sainte-Julie",
-      "region": "QC",
-      "postal_code": "J3E 1J9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -778,18 +778,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34833/group/467084",
-    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "1800 rue Savaria",
-      "city": "Sainte-Julie",
-      "region": "QC",
-      "postal_code": "J3E 1J9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -802,18 +802,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/455256",
-    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "1800 rue Savaria",
-      "city": "Sainte-Julie",
-      "region": "QC",
-      "postal_code": "J3E 1J9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -826,18 +826,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/455229",
-    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "1800 rue Savaria",
-      "city": "Sainte-Julie",
-      "region": "QC",
-      "postal_code": "J3E 1J9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1056,7 +1056,7 @@
     "longitude": -73.2533401
   },
   {
-    "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 7 - 10 ans | Dimanche 9h00",
+    "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 7 - 10 ans | Dimanche 10h40",
     "city": "Saint-Jean-Sur-Richelieu",
     "sport": "MULTISPORT",
     "age_range": "7 - 10",
@@ -1272,78 +1272,6 @@
     "longitude": -73.1991129
   },
   {
-    "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "Boucherville",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4 GR1",
-    "price": "$155.00",
-    "schedule": "Thursday 5:00 PM to 5:40 PM",
-    "duration": "from June 18, 2026 to August 6, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "4",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31909/group/423209",
-    "location_name": "Parc de Picardie - Boucherville - Terrain Soccer",
-    "address": {
-      "street": "1320 Rue de Picardie",
-      "city": "Boucherville",
-      "region": "QC",
-      "postal_code": "J4B 8K8"
-    },
-    "season": "summer",
-    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
-    "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
-  },
-  {
-    "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR2 | Jeudi 17h45",
-    "city": "Boucherville",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4 GR2",
-    "price": "$155.00",
-    "schedule": "Thursday 5:45 PM to 6:25 PM",
-    "duration": "from June 18, 2026 to August 6, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "complete",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31909/group/423210",
-    "location_name": "Parc de Picardie - Boucherville - Terrain Soccer",
-    "address": {
-      "street": "1320 Rue de Picardie",
-      "city": "Boucherville",
-      "region": "QC",
-      "postal_code": "J4B 8K8"
-    },
-    "season": "summer",
-    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
-    "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
-  },
-  {
-    "title": "BOUCHERVILLE | MULTISPORT | 2 - 4 ans GR3 | Jeudi 17h45",
-    "city": "Boucherville",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4 GR3",
-    "price": "$155.00",
-    "schedule": "Thursday 5:45 PM to 6:25 PM",
-    "duration": "from June 18, 2026 to August 6, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31909/group/445482",
-    "location_name": "Parc de Picardie - Boucherville - Terrain Soccer",
-    "address": {
-      "street": "1320 Rue de Picardie",
-      "city": "Boucherville",
-      "region": "QC",
-      "postal_code": "J4B 8K8"
-    },
-    "season": "summer",
-    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
-    "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
-  },
-  {
     "title": "BOUCHERVILLE | MULTISPORT | 4 - 6 ans | Jeudi 18h30",
     "city": "Boucherville",
     "sport": "MULTISPORT",
@@ -1364,8 +1292,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | MULTISPORT | 6 - 9 ans | Jeudi 19h25",
@@ -1388,8 +1316,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER 2 | 2 - 4 ans | Samedi 9h00",
@@ -1412,8 +1340,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "BOUCHERVILLE | SOCCER 2 | 4 - 6 ans | Samedi 9h45",
@@ -1436,8 +1364,8 @@
     "season": "summer",
     "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": 45.5760809,
-    "longitude": -73.4206722
+    "latitude": 45.5756343,
+    "longitude": -73.4200968
   },
   {
     "title": "CHAMBLY | MULTISPORT | 2 - 4 ans GR1 | Mercredi 17h00",
@@ -1654,30 +1582,6 @@
     "trial_link": "",
     "latitude": 45.4483467,
     "longitude": -73.2936944
-  },
-  {
-    "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "Châteauguay",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4 GR1",
-    "price": "$152.00",
-    "schedule": "Thursday 5:00 PM to 5:40 PM",
-    "duration": "from June 11, 2026 to August 6, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32324/group/428942",
-    "location_name": "Parc Josaphat Pitre - Châteauguay - Terrain",
-    "address": {
-      "street": "Rue Albert",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 2K6"
-    },
-    "season": "summer",
-    "full_address": "Rue Albert, Châteauguay, QC, J6K 2K6",
-    "trial_link": "",
-    "latitude": 45.3489871,
-    "longitude": -73.73616
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 6 - 8 ans | Dimanche 10h40",
@@ -1988,8 +1892,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 2 - 4 ans GROUPE 2 | Lundi 17h45",
@@ -2012,8 +1916,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 4 - 6 ans | Lundi 18h30",
@@ -2036,8 +1940,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | MULTISPORT | 7 - 10 ans | Lundi 19h20",
@@ -2060,8 +1964,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER 2 | 2 - 4 ans | Samedi 9h00",
@@ -2084,8 +1988,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LASALLE | SOCCER 2 | 4 - 6 ans | Samedi 9h45",
@@ -2108,8 +2012,8 @@
     "season": "summer",
     "full_address": "3400 Boul des Trinitaires, Montréal, QC, H4E 4J3",
     "trial_link": "",
-    "latitude": 45.4445604,
-    "longitude": -73.6017177
+    "latitude": 45.4441901,
+    "longitude": -73.6020959
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -2540,8 +2444,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -2564,8 +2468,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -2588,8 +2492,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -2612,8 +2516,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -2696,7 +2600,7 @@
     "schedule": "Wednesday 5:45 PM to 6:25 PM",
     "duration": "from July 1, 2026 to August 19, 2026",
     "age": "2 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32445/group/430806",
     "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
@@ -2720,7 +2624,7 @@
     "schedule": "Wednesday 6:30 PM to 7:20 PM",
     "duration": "from July 1, 2026 to August 19, 2026",
     "age": "4 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32445/group/430808",
     "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
@@ -3250,18 +3154,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30229/group/465624",
-    "location_name": "",
+    "location_name": "Centre Harpell - Ste-Anne-de-Bellevue - Salle communautaire",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "60 rue Saint-Pierre",
+      "city": "Sainte-Anne-de-Bellevue",
+      "region": "QC",
+      "postal_code": "H9X1X9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4056172,
+    "longitude": -73.9513
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 4 - 6 ans | Samedi 9h50",
@@ -4032,30 +3936,6 @@
     "longitude": -75.7565735
   },
   {
-    "title": "L'ANGE-GARDIEN | MULTISPORT | 2 - 4 ans GR1 | Jeudi 17h00",
-    "city": "L'Ange-Gardien",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4 GR1",
-    "price": "$142.00",
-    "schedule": "Thursday 5:00 PM to 5:40 PM",
-    "duration": "from June 11, 2026 to August 6, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "2",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/32391/group/429776",
-    "location_name": "Parc des Sables - L'Ange-Gardien - Terrain",
-    "address": {
-      "street": "30 Chem. des Bouleaux",
-      "city": "L'Ange-Gardien",
-      "region": "QC",
-      "postal_code": "J8L 0G2"
-    },
-    "season": "summer",
-    "full_address": "30 Chem. des Bouleaux, L'Ange-Gardien, QC, J8L 0G2",
-    "trial_link": "",
-    "latitude": 45.5557654,
-    "longitude": -75.5073133
-  },
-  {
     "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
     "city": "Bromont",
     "sport": "MULTISPORT",
@@ -4496,7 +4376,7 @@
     "schedule": "Saturday 9:45 AM to 10:35 AM",
     "duration": "from August 8, 2026 to September 26, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440060",
     "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
     "address": {
