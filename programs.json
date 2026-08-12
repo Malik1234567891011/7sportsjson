@@ -34,18 +34,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34342/group/455255",
-    "location_name": "",
+    "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2000 rue Bourgogne",
+      "city": "Chambly",
+      "region": "QC",
+      "postal_code": "J3L1Z4"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4483467,
+    "longitude": -73.2936944
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 16 - 26 mois | Dimanche 8h30",
@@ -68,8 +68,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12609",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 4 - 6 ans | Dimanche 9h00",
@@ -92,8 +92,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 7 - 10 ans | Dimanche 9h50",
@@ -116,8 +116,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans | Dimanche 9h35",
@@ -140,8 +140,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR2 | Dimanche 10h20",
@@ -164,8 +164,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR1 | Dimanche 9h05",
@@ -188,8 +188,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR2 | Dimanche 10h00",
@@ -212,8 +212,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 7 - 10 ans | Dimanche 8h40",
@@ -236,8 +236,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -260,8 +260,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Dimanche 9h50",
@@ -284,8 +284,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Dimanche 11h05",
@@ -308,8 +308,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans Gr1 | Samedi 9h00",
@@ -418,18 +418,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34343/group/459125",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "901 chemin Tiffin",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J4P 3G"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -2108,8 +2108,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -2132,8 +2132,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 6 - 9 ans | Dimanche 10h40",
@@ -2156,8 +2156,8 @@
     "season": "summer",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 7 - 12 ans | Mercredi 19h25",
@@ -2266,18 +2266,18 @@
     "age": "2 years and older",
     "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33835/group/452040",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Terrain avant",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "125 place Charles-Lemoyne",
+      "city": "Sainte-Catherine",
+      "region": "QC",
+      "postal_code": "J5C 0A1"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR1 | Mardi 17h00",
@@ -2312,20 +2312,20 @@
     "schedule": "Tuesday 5:45 PM to 6:25 PM",
     "duration": "from July 21, 2026 to September 8, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32573/group/433266",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Terrain Vert",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -2780,8 +2780,8 @@
     "season": "summer",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.2424084,
-    "longitude": -74.1269544
+    "latitude": 45.2418963,
+    "longitude": -74.128493
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
@@ -3260,8 +3260,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 2 - 4 ans GR2 | Lundi 17h45",
@@ -3284,8 +3284,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR2 | Lundi 18h30",
@@ -3308,8 +3308,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR3 | Lundi 17h00",
@@ -3332,8 +3332,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR1 | Lundi 17h50",
@@ -3356,8 +3356,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 7 - 10 ans | Lundi 18h45",
@@ -3380,8 +3380,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "10 SEMAINES: GATINEAU | MULTISPORT GR1 | 2 - 4 ans | Dimanche 9h00",
@@ -3601,7 +3601,7 @@
   },
   {
     "title": "HULL | SOCCER | 4 - 6 ans | Dimanche 10h30",
-    "city": "Gatineau",
+    "city": "Hull",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -3610,18 +3610,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/31961/group/423644",
-    "location_name": "Parc Bisson - Hull - Terrain",
+    "location_name": "",
     "address": {
-      "street": "Rue Froment",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8Y 6G2"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "Rue Froment, Gatineau, QC, J8Y 6G2",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.4572709,
-    "longitude": -75.7565735
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -3634,18 +3634,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457989",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12667",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
@@ -3658,18 +3658,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457990",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12667",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | SOCCER | 2 - 4 ans | Dimanche 10h40",
@@ -3682,18 +3682,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34259/group/457993",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12668",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "BROMONT | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -3730,18 +3730,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458850",
-    "location_name": "École des Colibris - Cowansville - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "186 rue du Nord",
-      "city": "Cowansville",
-      "region": "QC",
-      "postal_code": "J2K2L8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.2133625,
-    "longitude": -72.7416703
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "COWANSVILLE | MULTISPORTS | 6 - 10 ans | Lundi 18h15",
@@ -3754,18 +3754,18 @@
     "age": "6 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458851",
-    "location_name": "École des Colibris - Cowansville - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "186 rue du Nord",
-      "city": "Cowansville",
-      "region": "QC",
-      "postal_code": "J2K2L8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12675",
-    "latitude": 45.2133625,
-    "longitude": -72.7416703
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "COWANSVILLE | MULTISPORT | 2 - 4 ans | Lundi 17h30",
@@ -3802,18 +3802,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33165/group/442804",
-    "location_name": "Centre Sportif La Ruche - Magog - Terrain",
+    "location_name": "",
     "address": {
-      "street": "1255 boulevard des Étudiants",
-      "city": "Magog",
-      "region": "QC",
-      "postal_code": "J1X3Y6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "1255 boulevard des Étudiants, Magog, QC, J1X3Y6",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.2774475,
-    "longitude": -72.1402938
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 2 - 4 ans GR1 | Samedi 9h00",
