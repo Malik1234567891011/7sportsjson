@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -2074,22 +2074,22 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32173/group/426483",
-    "location_name": "Collège Charles-Lemoyne - Longueuil - Terrain Soccer",
+    "location_name": "",
     "address": {
-      "street": "901 chemin Tiffin",
-      "city": "Longueuil",
-      "region": "QC",
-      "postal_code": "J4P 3G"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -2098,22 +2098,22 @@
     "age": "2 years and older",
     "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33333/group/445473",
-    "location_name": "Collège Beaubois - Pierrefonds - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -2122,22 +2122,22 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33333/group/445474",
-    "location_name": "Collège Beaubois - Pierrefonds - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 6 - 9 ans | Dimanche 10h40",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "6 - 9",
     "price": "$150.00",
@@ -2146,18 +2146,18 @@
     "age": "6 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33333/group/445475",
-    "location_name": "Collège Beaubois - Pierrefonds - Terrain de soccer",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "POINTE-DES-CASCADES | SOCCER | 7 - 12 ans | Mercredi 19h25",
@@ -2300,8 +2300,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -2324,8 +2324,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -2348,8 +2348,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -2372,8 +2372,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -2530,18 +2530,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32444/group/430781",
-    "location_name": "",
+    "location_name": "Parc Yamaska - Saint-Hyacinthe - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "12936 Rue Yamaska",
+      "city": "Saint-Hyacinthe",
+      "region": "QC",
+      "postal_code": "J2T 1B3"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "12936 Rue Yamaska, Saint-Hyacinthe, QC, J2T 1B3",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6323101,
+    "longitude": -72.9372755
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans | Jeudi 17h30",
@@ -2554,18 +2554,18 @@
     "age": "2 years and older",
     "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32814/group/436968",
-    "location_name": "",
+    "location_name": "École secondaire Marcellin-Champagnat - Saint-Jean - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "14 Chem. des Patriotes E",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J2X 5P8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Jeudi 18h15",
@@ -2578,18 +2578,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32814/group/436969",
-    "location_name": "",
+    "location_name": "École secondaire Marcellin-Champagnat - Saint-Jean - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "14 Chem. des Patriotes E",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J2X 5P8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 6 - 9 ans | Jeudi 19h10",
@@ -2602,18 +2602,18 @@
     "age": "6 years and older",
     "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32814/group/436971",
-    "location_name": "",
+    "location_name": "École secondaire Marcellin-Champagnat - Saint-Jean - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "14 Chem. des Patriotes E",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J2X 5P8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "14 Chem. des Patriotes E, Saint-Jean-sur-Richelieu, QC, J2X 5P8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER | 2 - 4 ans GR1 | Jeudi 17h00",
@@ -2780,8 +2780,8 @@
     "season": "summer",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.2460705,
-    "longitude": -74.1205157
+    "latitude": 45.2418963,
+    "longitude": -74.128493
   },
   {
     "title": "VALLEYFIELD | MULTISPORT | 2 - 4 ans GR1 | Mardi 17h00",
@@ -3260,8 +3260,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 2 - 4 ans GR2 | Lundi 17h45",
@@ -3284,8 +3284,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR2 | Lundi 18h30",
@@ -3308,8 +3308,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR3 | Lundi 17h00",
@@ -3332,8 +3332,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 4 - 6 ans GR1 | Lundi 17h50",
@@ -3356,8 +3356,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "AYLMER | SOCCER | 7 - 10 ans | Lundi 18h45",
@@ -3380,8 +3380,8 @@
     "season": "summer",
     "full_address": "86 promenade Crescent, Gatineau, QC, J9H1T6",
     "trial_link": "",
-    "latitude": 45.3972674,
-    "longitude": -75.8039895
+    "latitude": 45.3973803,
+    "longitude": -75.8039374
   },
   {
     "title": "10 SEMAINES: GATINEAU | MULTISPORT GR1 | 2 - 4 ans | Dimanche 9h00",
