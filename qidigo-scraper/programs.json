@@ -452,8 +452,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5117464,
-    "longitude": -73.5042953
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5117464,
-    "longitude": -73.5042953
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5117464,
-    "longitude": -73.5042953
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5117464,
-    "longitude": -73.5042953
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5117464,
-    "longitude": -73.5042953
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -778,18 +778,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/455256",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -946,18 +946,18 @@
     "age": "4 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34329/group/459132",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12795",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY BALLE GR1 | 7 - 10 ans | Samedi 9h50",
@@ -980,6 +980,78 @@
     "season": "fall",
     "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12795",
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
+  },
+  {
+    "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
+    "city": "Saint-Jean-Sur-Richelieu",
+    "sport": "MULTISPORT",
+    "age_range": "2 - 4",
+    "price": "$155.00",
+    "schedule": "Sunday 9:00 AM to 9:40 AM",
+    "duration": "from October 4, 2026 to November 29, 2026",
+    "age": "2 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459134",
+    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "address": {
+      "street": "15 rue Jacques-Cartier N",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J3B 8R8"
+    },
+    "season": "fall",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12797",
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
+  },
+  {
+    "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
+    "city": "Saint-Jean-Sur-Richelieu",
+    "sport": "MULTISPORT",
+    "age_range": "4 - 6",
+    "price": "$155.00",
+    "schedule": "Sunday 9:45 AM to 10:35 AM",
+    "duration": "from October 4, 2026 to November 29, 2026",
+    "age": "4 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459135",
+    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "address": {
+      "street": "15 rue Jacques-Cartier N",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J3B 8R8"
+    },
+    "season": "fall",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12797",
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
+  },
+  {
+    "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 7 - 10 ans | Dimanche 10h40",
+    "city": "Saint-Jean-Sur-Richelieu",
+    "sport": "MULTISPORT",
+    "age_range": "7 - 10",
+    "price": "$155.00",
+    "schedule": "Sunday 10:40 AM to 11:30 AM",
+    "duration": "from October 4, 2026 to November 29, 2026",
+    "age": "7 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459141",
+    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "address": {
+      "street": "15 rue Jacques-Cartier N",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J3B 8R8"
+    },
+    "season": "fall",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12797",
     "latitude": 45.3056879,
     "longitude": -73.2533401
   },
@@ -1138,18 +1210,18 @@
     "age": "2 years and older",
     "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/31911/group/423215",
-    "location_name": "",
+    "location_name": "Parc de Picardie - Boucherville - Terrain Soccer",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1320 Rue de Picardie",
+      "city": "Boucherville",
+      "region": "QC",
+      "postal_code": "J4B 8K8"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "1320 Rue de Picardie, Boucherville, QC, J4B 8K8",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5760809,
+    "longitude": -73.4206722
   },
   {
     "title": "BOUCHERVILLE | SOCCER 2 | 4 - 6 ans | Samedi 9h45",
@@ -1388,8 +1460,8 @@
     "season": "summer",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.2418963,
-    "longitude": -74.128493
+    "latitude": 45.2424084,
+    "longitude": -74.1269544
   },
   {
     "title": "VALLEYFIELD | SOCCER 2 | 2 - 4 ans GR1 | Dimanche 9h00",
@@ -1858,18 +1930,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33012/group/440062",
-    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
+    "location_name": "",
     "address": {
-      "street": "2100 Chem. de Sainte-Catherine",
-      "city": "Sherbrooke",
-      "region": "QC",
-      "postal_code": "J1N 3V5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3702029,
-    "longitude": -71.9319291
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 4 - 6 ans GR1 | Samedi 9h45",
@@ -1882,18 +1954,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33012/group/440063",
-    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
+    "location_name": "",
     "address": {
-      "street": "2100 Chem. de Sainte-Catherine",
-      "city": "Sherbrooke",
-      "region": "QC",
-      "postal_code": "J1N 3V5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3702029,
-    "longitude": -71.9319291
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 2 - 4 ans GR1 | Samedi 9h00",
@@ -1906,18 +1978,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440059",
-    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
+    "location_name": "",
     "address": {
-      "street": "2100 Chem. de Sainte-Catherine",
-      "city": "Sherbrooke",
-      "region": "QC",
-      "postal_code": "J1N 3V5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3702029,
-    "longitude": -71.9319291
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 4 - 6 ans GR1 | Samedi 9h45",
@@ -1930,18 +2002,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440060",
-    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
+    "location_name": "",
     "address": {
-      "street": "2100 Chem. de Sainte-Catherine",
-      "city": "Sherbrooke",
-      "region": "QC",
-      "postal_code": "J1N 3V5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "summer",
-    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3702029,
-    "longitude": -71.9319291
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SHERBROOKE | SOCCER 2 | 7 - 10 ans GR1 | Samedi 10h40",
