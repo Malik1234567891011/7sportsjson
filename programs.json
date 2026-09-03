@@ -452,8 +452,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5117464,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5117464,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5117464,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5117464,
+    "longitude": -73.5042953
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5117464,
+    "longitude": -73.5042953
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -740,8 +740,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1220,8 +1220,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -1244,8 +1244,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -1268,8 +1268,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -1292,8 +1292,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -1306,18 +1306,18 @@
     "age": "4 years and older",
     "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33779/group/451576",
-    "location_name": "",
+    "location_name": "École Saint-Étienne - Surface Dek Hockey",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "430 Rue de l'Église",
+      "city": "Saint-Étienne-de-Beauharnois",
+      "region": "QC",
+      "postal_code": "J0S 1S0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "430 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2483083,
+    "longitude": -73.9175596
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 6 - 8 ans | Lundi 18h05",
@@ -1366,30 +1366,6 @@
     "trial_link": "",
     "latitude": 45.2483083,
     "longitude": -73.9175596
-  },
-  {
-    "title": "SAINT-LOUIS-DE-GONZAGUE| MULTISPORT | 6 - 10 ans | Jeudi 17h30",
-    "city": "Saint-Louis-De-Gonzague",
-    "sport": "MULTISPORT",
-    "age_range": "6 - 10",
-    "price": "$139.00",
-    "schedule": "Thursday 6:15 PM to 7:05 PM",
-    "duration": "from July 2, 2026 to September 3, 2026",
-    "age": "6 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/32388/group/429774",
-    "location_name": "École Omer-Séguin - Saint-Louis-de-Gonzague - Terrain et Surface",
-    "address": {
-      "street": "12 Rue Saint-Thomas",
-      "city": "Saint-Louis-de-Gonzague",
-      "region": "QC",
-      "postal_code": "J0S 1T0"
-    },
-    "season": "summer",
-    "full_address": "12 Rue Saint-Thomas, Saint-Louis-de-Gonzague, QC, J0S 1T0",
-    "trial_link": "",
-    "latitude": 45.2144085,
-    "longitude": -73.9972794
   },
   {
     "title": "VALLEYFIELD | HOCKEY 2 | 4 - 5 ans | Samedi 9h00",
