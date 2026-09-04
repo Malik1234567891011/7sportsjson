@@ -536,7 +536,7 @@
     "schedule": "Sunday 10:50 AM to 11:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "6 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34328/group/459129",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5102153,
-    "longitude": -73.6740159
+    "latitude": 45.5016698,
+    "longitude": -73.6847884
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -740,8 +740,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1220,8 +1220,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans GR2 | Mardi 17h45",
@@ -1244,8 +1244,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 4 - 6 ans | Mardi 18h30",
@@ -1268,8 +1268,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 6 - 9 ans | Mardi 19h25",
@@ -1292,8 +1292,8 @@
     "season": "summer",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -1388,8 +1388,8 @@
     "season": "summer",
     "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
     "trial_link": "",
-    "latitude": 45.2418963,
-    "longitude": -74.128493
+    "latitude": 45.2424084,
+    "longitude": -74.1269544
   },
   {
     "title": "VALLEYFIELD | SOCCER 2 | 2 - 4 ans GR1 | Dimanche 9h00",
@@ -1544,7 +1544,7 @@
     "schedule": "Wednesday 6:15 PM to 7:05 PM",
     "duration": "from October 7, 2026 to November 25, 2026",
     "age": "6 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459144",
     "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
     "address": {
