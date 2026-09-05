@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -658,18 +658,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34326/group/459121",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "125 place Charles-Lemoyne",
+      "city": "Sainte-Catherine",
+      "region": "QC",
+      "postal_code": "J5C 0A1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINTE-CATHERINE | SOCCER | 2 - 4 ans | Dimanche 10h40",
@@ -1368,30 +1368,6 @@
     "longitude": -73.9175596
   },
   {
-    "title": "VALLEYFIELD | HOCKEY 2 | 4 - 5 ans | Samedi 9h00",
-    "city": "Salaberry-De-Valleyfield",
-    "sport": "HOCKEY 2",
-    "age_range": "4 - 5",
-    "price": "$150.00",
-    "schedule": "Saturday 9:00 AM to 9:40 AM",
-    "duration": "from July 18, 2026 to September 5, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "2",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33820/group/451975",
-    "location_name": "Parc Multisport Valleyfield - Surface Dek Hockey",
-    "address": {
-      "street": "1900 boulevard Sainte-Marie",
-      "city": "Salaberry-de-Valleyfield",
-      "region": "QC",
-      "postal_code": "J6T 0H4"
-    },
-    "season": "summer",
-    "full_address": "1900 boulevard Sainte-Marie, Salaberry-de-Valleyfield, QC, J6T 0H4",
-    "trial_link": "",
-    "latitude": 45.2418963,
-    "longitude": -74.128493
-  },
-  {
     "title": "VALLEYFIELD | SOCCER 2 | 2 - 4 ans GR1 | Dimanche 9h00",
     "city": "Salaberry-De-Valleyfield",
     "sport": "SOCCER 2",
@@ -1546,18 +1522,18 @@
     "age": "6 years and older",
     "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459144",
-    "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "297 rue Alica",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8P3M6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4277659,
-    "longitude": -75.710976
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | SOCCER | 4 - 6 ANS | MARDI 17h45",
