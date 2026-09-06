@@ -536,7 +536,7 @@
     "schedule": "Sunday 10:50 AM to 11:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "6 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34328/group/459129",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5102153,
+    "longitude": -73.6740159
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -872,7 +872,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from September 19, 2026 to November 14, 2026",
     "age": "2 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/458842",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
     "address": {
