@@ -82,18 +82,18 @@
     "age": "16 months and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34260/group/458041",
-    "location_name": "",
+    "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "195 boulevard Brisebois",
+      "city": "Châteauguay",
+      "region": "QC",
+      "postal_code": "J6K 0H5"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12609",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 4 - 6 ans | Dimanche 9h00",
@@ -116,8 +116,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 7 - 10 ans | Dimanche 9h50",
@@ -140,8 +140,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans | Dimanche 9h35",
@@ -164,8 +164,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR2 | Dimanche 10h20",
@@ -188,8 +188,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR1 | Dimanche 9h05",
@@ -212,8 +212,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR2 | Dimanche 10h00",
@@ -236,8 +236,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 7 - 10 ans | Dimanche 8h40",
@@ -260,8 +260,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -284,8 +284,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Dimanche 9h50",
@@ -308,8 +308,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Dimanche 11h05",
@@ -332,8 +332,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans Gr1 | Samedi 9h00",
