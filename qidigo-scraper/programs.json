@@ -440,7 +440,7 @@
     "schedule": "Sunday 10:00 AM to 10:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "2 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34343/group/459125",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -464,7 +464,7 @@
     "schedule": "Sunday 10:50 AM to 11:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34343/group/459126",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -488,7 +488,7 @@
     "schedule": "Sunday 10:00 AM to 10:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "2 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34328/group/459127",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -536,7 +536,7 @@
     "schedule": "Sunday 10:50 AM to 11:40 AM",
     "duration": "from September 27, 2026 to December 6, 2026",
     "age": "6 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34328/group/459129",
     "location_name": "Collège Charles-Lemoyne - Longueuil - Gymnase",
     "address": {
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016698,
-    "longitude": -73.6847884
+    "latitude": 45.5032006,
+    "longitude": -73.6828772
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -776,8 +776,32 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from October 17, 2026 to December 12, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/455256",
+    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
+    "address": {
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
+    },
+    "season": "fall",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
+  },
+  {
+    "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 10h40",
+    "city": "Sainte-Julie",
+    "sport": "MULTISPORTS",
+    "age_range": "2 - 4",
+    "price": "$145.00",
+    "schedule": "Saturday 10:40 AM to 11:20 AM",
+    "duration": "from October 17, 2026 to December 12, 2026",
+    "age": "2 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/477766",
     "location_name": "École le Rucher - Sainte-Julie - Gymnase",
     "address": {
       "street": "1800 rue Savaria",
@@ -872,7 +896,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from September 19, 2026 to November 14, 2026",
     "age": "2 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/458842",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
     "address": {
@@ -898,6 +922,30 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/458843",
+    "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
+    "address": {
+      "street": "5465 rue Ramsay",
+      "city": "Longueuil",
+      "region": "QC",
+      "postal_code": "J3Y 2S3"
+    },
+    "season": "fall",
+    "full_address": "5465 rue Ramsay, Longueuil, QC, J3Y 2S3",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
+    "latitude": 45.4666969,
+    "longitude": -73.4298128
+  },
+  {
+    "title": "SAINT-HUBERT | MULTISPORT | 4 - 6 ans | Samedi 10h40",
+    "city": "Longueuil",
+    "sport": "MULTISPORT",
+    "age_range": "4 - 6",
+    "price": "$152.00",
+    "schedule": "Saturday 10:40 AM to 11:20 AM",
+    "duration": "from September 19, 2026 to November 14, 2026",
+    "age": "4 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/477768",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
     "address": {
       "street": "5465 rue Ramsay",
@@ -1064,7 +1112,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from October 3, 2026 to November 28, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34346/group/459130",
     "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
@@ -1472,7 +1520,7 @@
     "schedule": "Tuesday 6:40 PM to 7:30 PM",
     "duration": "from October 13, 2026 to December 1, 2026",
     "age": "7 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34133/group/456392",
     "location_name": "École de Touraine - Gatineau - Gymnase",
     "address": {
@@ -1688,7 +1736,7 @@
     "schedule": "Monday 5:40 PM to 6:20 PM",
     "duration": "from September 28, 2026 to November 23, 2026",
     "age": "2 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458850",
     "location_name": "École des Colibris - Cowansville - Gymnase",
     "address": {
