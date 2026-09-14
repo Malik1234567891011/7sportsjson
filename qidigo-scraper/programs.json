@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5032006,
-    "longitude": -73.6828772
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5032006,
-    "longitude": -73.6828772
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5032006,
-    "longitude": -73.6828772
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1472,7 +1472,7 @@
     "schedule": "Tuesday 6:40 PM to 7:30 PM",
     "duration": "from October 13, 2026 to December 1, 2026",
     "age": "7 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34133/group/456392",
     "location_name": "École de Touraine - Gatineau - Gymnase",
     "address": {
