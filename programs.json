@@ -104,7 +104,7 @@
     "schedule": "Sunday 9:00 AM to 9:50 AM",
     "duration": "from October 18, 2026 to December 6, 2026",
     "age": "4 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34070/group/457969",
     "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
@@ -452,8 +452,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -740,8 +740,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 10h40",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "fall",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": 45.5924311,
-    "longitude": -73.3474701
+    "latitude": 45.5923892,
+    "longitude": -73.3474692
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1364,8 +1364,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -1388,8 +1388,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Dimanche 10h05",
@@ -1402,18 +1402,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35756/group/479986",
-    "location_name": "",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 7 - 10 ans | Dimanche 11h00",
@@ -1426,18 +1426,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35756/group/479990",
-    "location_name": "",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 11h00",
@@ -1450,18 +1450,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35760/group/480092",
-    "location_name": "",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER GR1 | 4 - 6 ans | Dimanche 10h05",
@@ -1474,18 +1474,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35760/group/480091",
-    "location_name": "",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL | SOCCER | 2 - 4 ans | Dimanche 9h20",
@@ -1508,8 +1508,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -1522,18 +1522,18 @@
     "age": "4 years and older",
     "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/33779/group/451576",
-    "location_name": "",
+    "location_name": "École Saint-Étienne - Surface Dek Hockey",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "430 Rue de l'Église",
+      "city": "Saint-Étienne-de-Beauharnois",
+      "region": "QC",
+      "postal_code": "J0S 1S0"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "430 Rue de l'Église, Saint-Étienne-de-Beauharnois, QC, J0S 1S0",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2483083,
+    "longitude": -73.9175596
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 6 - 8 ans | Lundi 18h05",
@@ -1832,7 +1832,7 @@
     "schedule": "Sunday 9:00 AM to 9:40 AM",
     "duration": "from October 25, 2026 to December 13, 2026",
     "age": "2 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457989",
     "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
     "address": {
