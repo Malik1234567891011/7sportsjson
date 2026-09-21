@@ -452,8 +452,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -584,7 +584,7 @@
     "schedule": "Sunday 9:45 AM to 10:35 AM",
     "duration": "from September 27, 2026 to November 22, 2026",
     "age": "4 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34261/group/458045",
     "location_name": "Collège Beaubois - Pierrefonds - Gymnase",
     "address": {
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -944,7 +944,7 @@
     "schedule": "Saturday 10:40 AM to 11:20 AM",
     "duration": "from September 19, 2026 to November 14, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/477768",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
     "address": {
@@ -1364,8 +1364,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -1388,8 +1388,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Dimanche 10h05",
@@ -1412,8 +1412,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 7 - 10 ans | Dimanche 11h00",
@@ -1436,8 +1436,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 11h00",
@@ -1460,8 +1460,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER GR1 | 4 - 6 ans | Dimanche 10h05",
@@ -1484,8 +1484,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "VAUDREUIL | SOCCER | 2 - 4 ans | Dimanche 9h20",
@@ -1508,8 +1508,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3936372,
-    "longitude": -74.0280689
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "SAINT-ÉTIENNE-DE-BEAUHARNOIS | HOCKEY 2 | 4 - 5 ans | Lundi 17h15",
@@ -1832,7 +1832,7 @@
     "schedule": "Sunday 9:00 AM to 9:40 AM",
     "duration": "from October 25, 2026 to December 13, 2026",
     "age": "2 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457989",
     "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
     "address": {
