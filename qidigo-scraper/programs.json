@@ -706,18 +706,18 @@
     "age": "4 years and older",
     "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34327/group/459124",
-    "location_name": "",
+    "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "125 place Charles-Lemoyne",
+      "city": "Sainte-Catherine",
+      "region": "QC",
+      "postal_code": "J5C 0A1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "125 place Charles-Lemoyne, Sainte-Catherine, QC, J5C 0A1",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3999449,
+    "longitude": -73.5475581
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 4 - 6 ans | Samedi 9h00",
@@ -730,18 +730,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34833/group/467081",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -754,18 +754,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34833/group/467084",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 10h40",
@@ -802,18 +802,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/477766",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -850,18 +850,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34341/group/455265",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -874,18 +874,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34830/group/467077",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -960,30 +960,6 @@
     "longitude": -73.4298128
   },
   {
-    "title": "SAINT-HUBERT | MULTISPORT | 7 - 10 ans | Samedi 10h40",
-    "city": "Saint-Hubert",
-    "sport": "MULTISPORT",
-    "age_range": "7 - 10",
-    "price": "$155.00",
-    "schedule": "Saturday 10:40 AM to 11:30 AM",
-    "duration": "from September 19, 2026 to November 14, 2026",
-    "age": "7 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/458844",
-    "location_name": "",
-    "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
-    },
-    "season": "fall",
-    "full_address": "",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY BALLE GR1 | 4 - 6 ans | Samedi 9h00",
     "city": "Saint-Jean-Sur-Richelieu",
     "sport": "HOCKEY BALLE GR1",
@@ -994,18 +970,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34329/group/459132",
-    "location_name": "",
+    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "15 rue Jacques-Cartier N",
+      "city": "Saint-Jean-sur-Richelieu",
+      "region": "QC",
+      "postal_code": "J3B 8R8"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12795",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3056879,
+    "longitude": -73.2533401
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY BALLE GR1 | 7 - 10 ans | Samedi 9h50",
@@ -1364,8 +1340,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -1388,8 +1364,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Dimanche 10h05",
@@ -1412,8 +1388,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 7 - 10 ans | Dimanche 11h00",
@@ -1436,8 +1412,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL | SOCCER | 2 - 4 ans | Dimanche 9h20",
@@ -1460,8 +1436,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER GR1 | 4 - 6 ans | Dimanche 10h05",
@@ -1484,8 +1460,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 11h00",
@@ -1508,8 +1484,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -1568,7 +1544,7 @@
     "schedule": "Wednesday 5:30 PM to 6:10 PM",
     "duration": "from October 7, 2026 to November 25, 2026",
     "age": "2 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459143",
     "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
     "address": {
@@ -1854,7 +1830,7 @@
     "age_range": "2 - 5",
     "price": "$139.00",
     "schedule": "Monday 5:40 PM to 6:20 PM",
-    "duration": "from September 28, 2026 to November 23, 2026",
+    "duration": "from September 28, 2026 to November 30, 2026",
     "age": "2 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458850",
@@ -1878,7 +1854,7 @@
     "age_range": "6 - 10",
     "price": "$139.00",
     "schedule": "Monday 6:25 PM to 7:15 PM",
-    "duration": "from September 28, 2026 to November 23, 2026",
+    "duration": "from September 28, 2026 to November 30, 2026",
     "age": "6 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458851",
@@ -1902,7 +1878,7 @@
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
     "schedule": "Saturday 9:00 AM to 9:40 AM",
-    "duration": "from August 8, 2026 to September 26, 2026",
+    "duration": "from August 8, 2026 to October 3, 2026",
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33012/group/440062",
@@ -1926,7 +1902,7 @@
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
     "schedule": "Saturday 9:45 AM to 10:35 AM",
-    "duration": "from August 8, 2026 to September 26, 2026",
+    "duration": "from August 8, 2026 to October 3, 2026",
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33012/group/440063",
@@ -1950,7 +1926,7 @@
     "age_range": "2 - 4 GR1",
     "price": "$150.00",
     "schedule": "Saturday 9:00 AM to 9:40 AM",
-    "duration": "from August 8, 2026 to September 26, 2026",
+    "duration": "from August 8, 2026 to October 3, 2026",
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440059",
@@ -1974,7 +1950,7 @@
     "age_range": "4 - 6 GR1",
     "price": "$150.00",
     "schedule": "Saturday 9:45 AM to 10:35 AM",
-    "duration": "from August 8, 2026 to September 26, 2026",
+    "duration": "from August 8, 2026 to October 3, 2026",
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440060",
@@ -1998,7 +1974,7 @@
     "age_range": "7 - 10 GR1",
     "price": "$150.00",
     "schedule": "Saturday 10:40 AM to 11:30 AM",
-    "duration": "from August 8, 2026 to September 26, 2026",
+    "duration": "from August 8, 2026 to October 3, 2026",
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33011/group/440061",
