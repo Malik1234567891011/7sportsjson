@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -608,7 +608,7 @@
     "schedule": "Sunday 10:40 AM to 11:30 AM",
     "duration": "from September 27, 2026 to November 22, 2026",
     "age": "7 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34261/group/458049",
     "location_name": "Collège Beaubois - Pierrefonds - Gymnase",
     "address": {
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.503702,
+    "longitude": -73.6822981
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -656,7 +656,7 @@
     "schedule": "Sunday 9:45 AM to 10:35 AM",
     "duration": "from September 27, 2026 to November 29, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34326/group/459121",
     "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
     "address": {
@@ -704,7 +704,7 @@
     "schedule": "Sunday 9:45 AM to 10:35 AM",
     "duration": "from September 27, 2026 to November 29, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34327/group/459124",
     "location_name": "Collège Charles-Lemoyne - Sainte-Catherine - Gymnase",
     "address": {
@@ -1064,7 +1064,7 @@
     "schedule": "Sunday 10:40 AM to 11:30 AM",
     "duration": "from October 4, 2026 to November 29, 2026",
     "age": "7 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459141",
     "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
@@ -1340,8 +1340,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -1364,8 +1364,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Dimanche 10h05",
@@ -1388,8 +1388,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 7 - 10 ans | Dimanche 11h00",
@@ -1412,8 +1412,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL | SOCCER | 2 - 4 ans | Dimanche 9h20",
@@ -1436,8 +1436,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER GR1 | 4 - 6 ans | Dimanche 10h05",
@@ -1460,8 +1460,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 11h00",
@@ -1484,8 +1484,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -1834,18 +1834,18 @@
     "age": "2 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458850",
-    "location_name": "",
+    "location_name": "École des Colibris - Cowansville - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "186 rue du Nord",
+      "city": "Cowansville",
+      "region": "QC",
+      "postal_code": "J2K2L8"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2133625,
+    "longitude": -72.7416703
   },
   {
     "title": "COWANSVILLE | MULTISPORTS | 6 - 10 ans | Lundi 18h25",
@@ -1858,18 +1858,18 @@
     "age": "6 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458851",
-    "location_name": "",
+    "location_name": "École des Colibris - Cowansville - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "186 rue du Nord",
+      "city": "Cowansville",
+      "region": "QC",
+      "postal_code": "J2K2L8"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12675",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2133625,
+    "longitude": -72.7416703
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 2 - 4 ans GR1 | Samedi 9h00",
@@ -1882,18 +1882,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/33012/group/440062",
-    "location_name": "",
+    "location_name": "Collège Mont Saint-Anne - Sherbrooke - Terrain",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2100 Chem. de Sainte-Catherine",
+      "city": "Sherbrooke",
+      "region": "QC",
+      "postal_code": "J1N 3V5"
     },
     "season": "summer",
-    "full_address": "",
+    "full_address": "2100 Chem. de Sainte-Catherine, Sherbrooke, QC, J1N 3V5",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3702029,
+    "longitude": -71.9319291
   },
   {
     "title": "SHERBROOKE | MULTISPORT 2 | 4 - 6 ans GR1 | Samedi 9h45",
