@@ -56,7 +56,7 @@
     "schedule": "Saturday 11:20 AM to 12:10 PM",
     "duration": "from September 19, 2026 to December 5, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34342/group/475993",
     "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
     "address": {
@@ -272,7 +272,7 @@
     "schedule": "Sunday 9:00 AM to 9:40 AM",
     "duration": "from October 18, 2026 to December 6, 2026",
     "age": "2 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34068/group/457967",
     "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
@@ -416,7 +416,7 @@
     "schedule": "Saturday 10:30 AM to 11:20 AM",
     "duration": "from October 3, 2026 to November 28, 2026",
     "age": "4 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34090/group/455915",
     "location_name": "École St-Ignace - Coteau-du-Lac - Gymnase",
     "address": {
@@ -476,8 +476,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | MULTISPORTS | 4 - 6 ans | Dimanche 10h50",
@@ -500,8 +500,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12793",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -524,8 +524,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -572,8 +572,8 @@
     "season": "fall",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "",
-    "latitude": 45.5127871,
-    "longitude": -73.5069739
+    "latitude": 45.5121633,
+    "longitude": -73.5053727
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -920,7 +920,7 @@
     "schedule": "Saturday 9:45 AM to 10:35 AM",
     "duration": "from September 19, 2026 to November 14, 2026",
     "age": "4 years and older",
-    "remaining_spots": "complete",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34309/group/458843",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
     "address": {
