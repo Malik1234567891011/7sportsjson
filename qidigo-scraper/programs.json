@@ -92,8 +92,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12609",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 4 - 6 ans | Dimanche 9h00",
@@ -116,8 +116,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | HOCKEY | 7 - 10 ans | Dimanche 9h50",
@@ -140,8 +140,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12608",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans | Dimanche 9h35",
@@ -164,8 +164,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 2 - 4 ans GR2 | Dimanche 10h20",
@@ -188,8 +188,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR1 | Dimanche 9h05",
@@ -212,8 +212,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 4 - 6 ans GR2 | Dimanche 10h00",
@@ -224,7 +224,7 @@
     "schedule": "Sunday 10:00 AM to 10:50 AM",
     "duration": "from October 18, 2026 to December 6, 2026",
     "age": "4 years and older",
-    "remaining_spots": "2",
+    "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34069/group/457963",
     "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
@@ -236,8 +236,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | MULTISPORT | 7 - 10 ans | Dimanche 8h40",
@@ -260,8 +260,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12606",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -284,8 +284,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans | Dimanche 9h50",
@@ -308,8 +308,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 4 - 6 ans GR2 | Dimanche 10h45",
@@ -332,8 +332,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER | 7 - 10 ans | Dimanche 11h05",
@@ -356,8 +356,8 @@
     "season": "fall",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.3464547,
-    "longitude": -73.7691959
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans Gr1 | Samedi 9h00",
@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1400,7 +1400,7 @@
     "schedule": "Sunday 10:05 AM to 10:55 AM",
     "duration": "from October 25, 2026 to December 13, 2026",
     "age": "4 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35760/group/480091",
     "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
@@ -1426,18 +1426,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35760/group/480092",
-    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
-      "city": "Vaudreuil-Dorion",
-      "region": "QC",
-      "postal_code": "J7V 6B1"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -1450,18 +1450,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30229/group/465624",
-    "location_name": "Centre Harpell - Ste-Anne-de-Bellevue - Salle communautaire",
+    "location_name": "",
     "address": {
-      "street": "60 rue Saint-Pierre",
-      "city": "Sainte-Anne-de-Bellevue",
-      "region": "QC",
-      "postal_code": "H9X1X9"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "winter",
-    "full_address": "60 rue Saint-Pierre, Sainte-Anne-de-Bellevue, QC, H9X1X9",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.4056172,
-    "longitude": -73.9513
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINTE-ANNE-DE-BELLEVUE | MULTISPORTS | 4 - 6 ans | Samedi 9h50",
@@ -1496,7 +1496,7 @@
     "schedule": "Wednesday 5:30 PM to 6:10 PM",
     "duration": "from October 7, 2026 to November 25, 2026",
     "age": "2 years and older",
-    "remaining_spots": "3",
+    "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459143",
     "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
     "address": {
@@ -1522,18 +1522,18 @@
     "age": "6 years and older",
     "remaining_spots": "2",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459144",
-    "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "297 rue Alica",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8P3M6"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4277659,
-    "longitude": -75.710976
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | SOCCER | 4 - 6 ANS | MARDI 17h45",
@@ -1546,18 +1546,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/34133/group/456391",
-    "location_name": "École de Touraine - Gatineau - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "59 rue de Provence",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8T4V7"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12603",
-    "latitude": 45.4737776,
-    "longitude": -75.7232833
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "GATINEAU | SOCCER | 7 - 10 ANS | MARDI 18h40",
