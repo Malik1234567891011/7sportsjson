@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -728,7 +728,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from October 17, 2026 to December 12, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34833/group/467081",
     "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
@@ -740,8 +740,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -764,8 +764,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12801",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -788,8 +788,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 10h40",
@@ -812,8 +812,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -836,8 +836,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12669",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -860,8 +860,8 @@
     "season": "fall",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -946,18 +946,18 @@
     "age": "4 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34329/group/459132",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12795",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | HOCKEY BALLE GR1 | 7 - 10 ans | Samedi 9h50",
@@ -994,18 +994,18 @@
     "age": "2 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459134",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12797",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
@@ -1042,18 +1042,18 @@
     "age": "7 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34331/group/459141",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12797",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORTS GR1 | 2 - 4 ans | Samedi 9h00",
@@ -1066,18 +1066,18 @@
     "age": "2 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34346/group/459130",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORTS | 4 - 6 ans | Samedi 9h50",
@@ -1090,18 +1090,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34346/group/459131",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12794",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | MULTISPORTS | 4 - 6 ans GR2 | Samedi 10h45",
@@ -1162,18 +1162,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34332/group/459138",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER GR1 | 7 - 10 ans | Dimanche 10h40",
@@ -1186,18 +1186,18 @@
     "age": "7 years and older",
     "remaining_spots": "1",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34332/group/459139",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "SAINT-JEAN-SUR-RICHELIEU | SOCCER GR2 | 4 - 6 ans | Samedi 10h40",
@@ -1210,18 +1210,18 @@
     "age": "4 years and older",
     "remaining_spots": "4",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34332/group/483344",
-    "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "15 rue Jacques-Cartier N",
-      "city": "Saint-Jean-sur-Richelieu",
-      "region": "QC",
-      "postal_code": "J3B 8R8"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "15 rue Jacques-Cartier N, Saint-Jean-sur-Richelieu, QC, J3B 8R8",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3056879,
-    "longitude": -73.2533401
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "VALLEYFIELD | MULTISPORTS | 2 - 4 ans | Dimanche 9h00",
@@ -1316,8 +1316,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -1340,8 +1340,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Dimanche 10h05",
@@ -1364,8 +1364,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL | SOCCER | 2 - 4 ans | Dimanche 9h20",
@@ -1388,8 +1388,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER GR1 | 4 - 6 ans | Dimanche 10h05",
@@ -1412,8 +1412,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12796",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 11h00",
@@ -1436,8 +1436,8 @@
     "season": "fall",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": 45.393806,
-    "longitude": -74.0306023
+    "latitude": 45.3936372,
+    "longitude": -74.0280689
   },
   {
     "title": "GATINEAU | MULTISPORT | 2 - 5 ans | Mercredi 17h30",
@@ -1640,7 +1640,7 @@
     "schedule": "Sunday 9:45 AM to 10:35 AM",
     "duration": "from October 25, 2026 to December 13, 2026",
     "age": "4 years and older",
-    "remaining_spots": "5",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457990",
     "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
     "address": {
