@@ -10,18 +10,18 @@
     "age": "2 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34342/group/455257",
-    "location_name": "",
+    "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2000 rue Bourgogne",
+      "city": "Chambly",
+      "region": "QC",
+      "postal_code": "J3L1Z4"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4483467,
+    "longitude": -73.2936944
   },
   {
     "title": "CHAMBLY | MULTISPORTS | 4 - 6 ans | Samedi 10h15",
@@ -577,7 +577,7 @@
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "2 - 4",
     "price": "$150.00",
@@ -586,22 +586,22 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34261/group/458042",
-    "location_name": "Collège Beaubois - Pierrefonds - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
-    "city": "Montréal",
+    "city": "Pierrefonds",
     "sport": "SOCCER",
     "age_range": "4 - 6",
     "price": "$150.00",
@@ -610,18 +610,18 @@
     "age": "4 years and older",
     "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34261/group/458045",
-    "location_name": "Collège Beaubois - Pierrefonds - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "4901 rue du Collège",
-      "city": "Montréal",
-      "region": "QC",
-      "postal_code": "H8Y 3T4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "fall",
-    "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.5094125,
+    "longitude": -73.6750416
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
