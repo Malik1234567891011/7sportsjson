@@ -556,21 +556,59 @@ async function geocodeProgramRow(program, geoCache) {
 }
 
 /**
- * Optional leading season: "ÉTÉ | CITY | SPORT | …" → city/sport/age shift by one.
- * Without season: "BELOEIL | MULTISPORT | 2 - 4 ans | …" unchanged.
+ * True for a segment that is an age range and nothing else: "2 - 4", "4 - 6 ans",
+ * "16 - 28 MOIS", "12+". Deliberately anchored so a schedule segment that happens
+ * to contain a dash ("Lundi 17h30 - 18h30") is not mistaken for one.
+ */
+function isAgeSegment(segment) {
+  const s = norm(segment)
+    .replace(/\b(ans?|mois|months?|years?)\b/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (!s) return false;
+  return /^\d{1,2}\s*[-\u2013\u2014]\s*\d{1,2}$/.test(s) || /^\d{1,2}\s*\+$/.test(s);
+}
+
+/**
+ * Titles are pipe-separated and positional, but the leading segments are optional:
+ *   "BELOEIL | MULTISPORT | 2 - 4 ans | Samedi 9h00"      city + sport
+ *   "ÉTÉ | BELOEIL | MULTISPORT | 2 - 4 ans | …"        leading season
+ *   "MULTISPORTS | 2 - 5 ans | Mercredi 17h30"            no city (7SPORTSO org)
+ * Counting from the left lands the age in `sport` and the schedule in `age_range`
+ * for the third form, so anchor on the age segment and read city/sport back from
+ * it. Falls back to the original left-counting when no age segment is present.
  */
 function parseFromTitle(title) {
   const t = norm(title);
   const parts = t.split("|").map((x) => norm(x));
   let seasonFromTitle = null;
-  let offset = 0;
+  let start = 0;
   if (parts.length > 0 && parts[0]) {
     seasonFromTitle = seasonFromTitleSegment(parts[0]);
-    if (seasonFromTitle) offset = 1;
+    if (seasonFromTitle) start = 1;
   }
-  const city = parts[offset] || "";
-  const sport = parts[offset + 1] || "";
-  let age_range = parts[offset + 2] || "";
+
+  let ageIdx = -1;
+  for (let i = start; i < parts.length; i++) {
+    if (isAgeSegment(parts[i])) {
+      ageIdx = i;
+      break;
+    }
+  }
+
+  let city;
+  let sport;
+  let age_range;
+  if (ageIdx >= start + 1) {
+    sport = parts[ageIdx - 1] || "";
+    city = ageIdx - 2 >= start ? parts[ageIdx - 2] || "" : "";
+    age_range = parts[ageIdx] || "";
+  } else {
+    city = parts[start] || "";
+    sport = parts[start + 1] || "";
+    age_range = parts[start + 2] || "";
+  }
+
   age_range = age_range.replace(/\bans\b/gi, "").replace(/\s+/g, " ").trim();
   return { city, sport, age_range, seasonFromTitle };
 }
