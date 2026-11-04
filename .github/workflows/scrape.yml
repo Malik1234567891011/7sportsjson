@@ -49,7 +49,17 @@ jobs:
           # So: stop guessing from the release number and ask apt which name
           # actually resolves on this runner. A package that exists under
           # neither name is skipped rather than failing the build.
-          have() { apt-cache policy "$1" 2>/dev/null | grep -qE 'Candidate: [0-9]'; }
+          # No pipe in here on purpose. `apt-cache policy X | grep -q` looks
+          # right but `grep -q` exits on the first match, apt-cache takes a
+          # SIGPIPE, and under `set -o pipefail` the function then reports 141
+          # even though the package DOES exist. That silently dropped six of
+          # the t64 packages from the install list on the first green run.
+          have() {
+            local out
+            out=$(apt-cache policy "$1" 2>/dev/null) || return 1
+            case "$out" in *"Candidate: "[0-9]*) return 0 ;; esac
+            return 1
+          }
           pick() { for n in "$@"; do if have "$n"; then printf '%s ' "$n"; break; fi; done; return 0; }
 
           PKGS=""
