@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5094125,
+    "longitude": -73.6750416
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5094125,
+    "longitude": -73.6750416
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5094125,
+    "longitude": -73.6750416
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -944,7 +944,7 @@
     "schedule": "Saturday 9:00 AM to 9:50 AM",
     "duration": "from October 3, 2026 to December 12, 2026",
     "age": "4 years and older",
-    "remaining_spots": "1",
+    "remaining_spots": "complete",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34329/group/459132",
     "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
@@ -1532,8 +1532,8 @@
     "season": "winter",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -1556,8 +1556,8 @@
     "season": "winter",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -1580,8 +1580,8 @@
     "season": "winter",
     "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": 45.5923892,
-    "longitude": -73.3474692
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
