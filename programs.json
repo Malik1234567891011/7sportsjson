@@ -596,8 +596,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -620,8 +620,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -644,8 +644,8 @@
     "season": "fall",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12666",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1426,18 +1426,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35760/group/480092",
-    "location_name": "",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
     },
     "season": "fall",
-    "full_address": "",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12605",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "CHÂTEAUGUAY | DÉCOUVERTE | 16 - 28 MOIS | Dimanche 8h30",
@@ -1450,18 +1450,18 @@
     "age": "16 months and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35966/group/459187",
-    "location_name": "",
+    "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "195 boulevard Brisebois",
+      "city": "Châteauguay",
+      "region": "QC",
+      "postal_code": "J6K 0H5"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 4 - 6 ans | Samedi 9h00",
@@ -1474,18 +1474,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35997/group/485894",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -1498,18 +1498,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35997/group/485895",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -1522,18 +1522,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30200/group/485889",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -1546,18 +1546,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30200/group/485890",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -1570,18 +1570,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30200/group/485891",
-    "location_name": "",
+    "location_name": "École le Rucher - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "1800 rue Savaria",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 1J9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "1800 rue Savaria, Sainte-Julie, QC, J3E 1J9",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5924311,
+    "longitude": -73.3474701
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -1594,18 +1594,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35996/group/485892",
-    "location_name": "",
+    "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "27 Rue du Plateau",
+      "city": "Sainte-Julie",
+      "region": "QC",
+      "postal_code": "J3E 2X9"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12800",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
