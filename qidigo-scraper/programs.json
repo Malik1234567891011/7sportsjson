@@ -58,21 +58,21 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34773/group/485366",
-    "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
+    "location_name": "",
     "address": {
-      "street": "2000 rue Bourgogne",
-      "city": "Chambly",
-      "region": "QC",
-      "postal_code": "J3L1Z4"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "winter",
-    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
+    "full_address": "",
     "trial_link": "http://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13065",
-    "latitude": 45.4483467,
-    "longitude": -73.2936944
+    "latitude": null,
+    "longitude": null
   },
   {
-    "title": "CHÂTEAUGUAY | DÉCOUVERTE | 16 - 28 MOIS | Dimanche 8h30",
+    "title": "HIVER | CHÂTEAUGUAY | DÉCOUVERTE | 16 - 28 MOIS | Dimanche 8h30",
     "city": "Châteauguay",
     "sport": "DÉCOUVERTE",
     "age_range": "16 - 28 MOIS",
@@ -92,11 +92,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13069",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | HOCKEY GR1 | 4 - 6 ans | Dimanche 9h00",
+    "title": "HIVER | CHÂTEAUGUAY | HOCKEY GR1 | 4 - 6 ans | Dimanche 9h00",
     "city": "Châteauguay",
     "sport": "HOCKEY GR1",
     "age_range": "4 - 6",
@@ -116,11 +116,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13068",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | HOCKEY GR1 | 7 - 10 ans | Dimanche 9h50",
+    "title": "HIVER | CHÂTEAUGUAY | HOCKEY GR1 | 7 - 10 ans | Dimanche 9h50",
     "city": "Châteauguay",
     "sport": "HOCKEY GR1",
     "age_range": "7 - 10",
@@ -140,11 +140,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13068",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | MULTISPORTS GR1 | 2 - 4 ans | Dimanche 9h35",
+    "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 2 - 4 ans | Dimanche 9h35",
     "city": "Châteauguay",
     "sport": "MULTISPORTS GR1",
     "age_range": "2 - 4",
@@ -154,21 +154,21 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35967/group/459190",
-    "location_name": "Sportplex - Châteauguay - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "195 boulevard Brisebois",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 0H5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "winter",
-    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "full_address": "",
     "trial_link": "",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": null,
+    "longitude": null
   },
   {
-    "title": "CHÂTEAUGUAY | MULTISPORTS GR2 | 2 - 4 ans | Dimanche 10h20",
+    "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR2 | 2 - 4 ans | Dimanche 10h20",
     "city": "Châteauguay",
     "sport": "MULTISPORTS GR2",
     "age_range": "2 - 4",
@@ -188,11 +188,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | MULTISPORTS GR1 | 4 - 6 ans | Dimanche 9h05",
+    "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 4 - 6 ans | Dimanche 9h05",
     "city": "Châteauguay",
     "sport": "MULTISPORTS GR1",
     "age_range": "4 - 6",
@@ -212,11 +212,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | MULTISPORTS GR2 | 4 - 6 ans | Dimanche 10h00",
+    "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR2 | 4 - 6 ans | Dimanche 10h00",
     "city": "Châteauguay",
     "sport": "MULTISPORTS GR2",
     "age_range": "4 - 6",
@@ -236,11 +236,11 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
-    "title": "CHÂTEAUGUAY | MULTISPORTS GR1 | 7 - 10 ans | Dimanche 8h40",
+    "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 7 - 10 ans | Dimanche 8h40",
     "city": "Châteauguay",
     "sport": "MULTISPORTS GR1",
     "age_range": "7 - 10",
@@ -260,8 +260,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 2 - 4 ans | Dimanche 9h00",
@@ -284,8 +284,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 4 - 6 ans | Dimanche 9h50",
@@ -308,8 +308,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 7 - 10 ans | Dimanche 11h05",
@@ -332,8 +332,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -644,8 +644,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -668,8 +668,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -692,8 +692,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5094125,
-    "longitude": -73.6750416
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -788,8 +788,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -812,8 +812,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -836,8 +836,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -860,8 +860,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -908,8 +908,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13074",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -967,7 +967,7 @@
     "price": "$152.00",
     "schedule": "Saturday 10:40 AM to 11:30 AM",
     "duration": "from January 23, 2027 to March 20, 2027",
-    "age": "6 years and older",
+    "age": "5 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30199/group/459200",
     "location_name": "Destination Hockey - Saint-Hubert - Surface de Dek Hockey",
@@ -1252,174 +1252,6 @@
     "city": "Gatineau",
     "sport": "MULTISPORT",
     "age_range": "2 - 5",
-    "price": "$145.00",
-    "schedule": "Wednesday 5:30 PM to 6:10 PM",
-    "duration": "from October 7, 2026 to November 25, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "3",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459143",
-    "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
-    "address": {
-      "street": "297 rue Alica",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8P3M6"
-    },
-    "season": "fall",
-    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4277659,
-    "longitude": -75.710976
-  },
-  {
-    "title": "GATINEAU | MULTISPORT | 6 - 9 ans | Mercredi 18h15",
-    "city": "Gatineau",
-    "sport": "MULTISPORT",
-    "age_range": "6 - 9",
-    "price": "$145.00",
-    "schedule": "Wednesday 6:15 PM to 7:05 PM",
-    "duration": "from October 7, 2026 to November 25, 2026",
-    "age": "6 years and older",
-    "remaining_spots": "2",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34333/group/459144",
-    "location_name": "Greater Gatineau Elementary School - Gatineau - Gymnase",
-    "address": {
-      "street": "297 rue Alica",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8P3M6"
-    },
-    "season": "fall",
-    "full_address": "297 rue Alica, Gatineau, QC, J8P3M6",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4277659,
-    "longitude": -75.710976
-  },
-  {
-    "title": "GATINEAU | SOCCER | 4 - 6 ANS | MARDI 17h45",
-    "city": "Gatineau",
-    "sport": "SOCCER",
-    "age_range": "4 - 6",
-    "price": "$135.00",
-    "schedule": "Tuesday 5:45 PM to 6:35 PM",
-    "duration": "from October 13, 2026 to December 1, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "complete",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34133/group/456391",
-    "location_name": "École de Touraine - Gatineau - Gymnase",
-    "address": {
-      "street": "59 rue de Provence",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8T4V7"
-    },
-    "season": "fall",
-    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12603",
-    "latitude": 45.4737776,
-    "longitude": -75.7232833
-  },
-  {
-    "title": "GATINEAU | SOCCER | 7 - 10 ANS | MARDI 18h40",
-    "city": "Gatineau",
-    "sport": "SOCCER",
-    "age_range": "7 - 10",
-    "price": "$135.00",
-    "schedule": "Tuesday 6:40 PM to 7:30 PM",
-    "duration": "from October 13, 2026 to December 1, 2026",
-    "age": "7 years and older",
-    "remaining_spots": "complete",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34133/group/456392",
-    "location_name": "École de Touraine - Gatineau - Gymnase",
-    "address": {
-      "street": "59 rue de Provence",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8T4V7"
-    },
-    "season": "fall",
-    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12603",
-    "latitude": 45.4737776,
-    "longitude": -75.7232833
-  },
-  {
-    "title": "HULL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "Gatineau",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4",
-    "price": "$145.00",
-    "schedule": "Sunday 9:00 AM to 9:40 AM",
-    "duration": "from October 4, 2026 to November 29, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34337/group/459180",
-    "location_name": "Pierre Elliott-Trudeau Elementary School - Hull - Gymnase",
-    "address": {
-      "street": "2 rue Millar",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8Y3N3"
-    },
-    "season": "fall",
-    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.4256848,
-    "longitude": -75.7291063
-  },
-  {
-    "title": "HULL | MULTISPORT | 4 - 6 ans | Dimanche 9h50",
-    "city": "Gatineau",
-    "sport": "MULTISPORT",
-    "age_range": "4 - 6",
-    "price": "$145.00",
-    "schedule": "Sunday 9:50 AM to 10:40 AM",
-    "duration": "from October 4, 2026 to November 29, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "4",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34337/group/459182",
-    "location_name": "Pierre Elliott-Trudeau Elementary School - Hull - Gymnase",
-    "address": {
-      "street": "2 rue Millar",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8Y3N3"
-    },
-    "season": "fall",
-    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12672",
-    "latitude": 45.4256848,
-    "longitude": -75.7291063
-  },
-  {
-    "title": "HULL | SOCCER | 4 - 6 ans | Dimanche 9h50",
-    "city": "Gatineau",
-    "sport": "SOCCER",
-    "age_range": "4 - 6",
-    "price": "$145.00",
-    "schedule": "Sunday 9:50 AM to 10:40 AM",
-    "duration": "from October 4, 2026 to November 29, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "5",
-    "link": "https://www.qidigo.com/u/7SPORTSO/activity/34338/group/459184",
-    "location_name": "Pierre Elliott-Trudeau Elementary School - Hull - Gymnase",
-    "address": {
-      "street": "2 rue Millar",
-      "city": "Gatineau",
-      "region": "QC",
-      "postal_code": "J8Y3N3"
-    },
-    "season": "fall",
-    "full_address": "2 rue Millar, Gatineau, QC, J8Y3N3",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12671",
-    "latitude": 45.4256848,
-    "longitude": -75.7291063
-  },
-  {
-    "title": "GATINEAU | MULTISPORT | 2 - 5 ans | Mercredi 17h30",
-    "city": "Gatineau",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 5",
     "price": "$147.00",
     "schedule": "Wednesday 5:30 PM to 6:10 PM",
     "duration": "from January 13, 2027 to March 10, 2027",
@@ -1498,18 +1330,18 @@
     "age": "7 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSO/activity/30486/group/488273",
-    "location_name": "",
+    "location_name": "École de Touraine - Gatineau - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "59 rue de Provence",
+      "city": "Gatineau",
+      "region": "QC",
+      "postal_code": "J8T4V7"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "59 rue de Provence, Gatineau, QC, J8T4V7",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13077",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4737776,
+    "longitude": -75.7232833
   },
   {
     "title": "HULL | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1582,126 +1414,6 @@
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13080",
     "latitude": 45.4256848,
     "longitude": -75.7291063
-  },
-  {
-    "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
-    "city": "Bromont",
-    "sport": "MULTISPORT",
-    "age_range": "2 - 4",
-    "price": "$150.00",
-    "schedule": "Sunday 9:00 AM to 9:40 AM",
-    "duration": "from October 25, 2026 to December 13, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "complete",
-    "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457989",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
-    "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
-    },
-    "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12667",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
-  },
-  {
-    "title": "BROMONT | MULTISPORT | 4 - 6 ans | Dimanche 9h45",
-    "city": "Bromont",
-    "sport": "MULTISPORT",
-    "age_range": "4 - 6",
-    "price": "$150.00",
-    "schedule": "Sunday 9:45 AM to 10:35 AM",
-    "duration": "from October 25, 2026 to December 13, 2026",
-    "age": "4 years and older",
-    "remaining_spots": "3",
-    "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34247/group/457990",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
-    "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
-    },
-    "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12667",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
-  },
-  {
-    "title": "BROMONT | SOCCER | 2 - 4 ans | Dimanche 10h40",
-    "city": "Bromont",
-    "sport": "SOCCER",
-    "age_range": "2 - 4",
-    "price": "$150.00",
-    "schedule": "Sunday 10:40 AM to 11:20 AM",
-    "duration": "from October 25, 2026 to December 13, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "1",
-    "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34259/group/457993",
-    "location_name": "Centre National de Cyclisme de Bromont - Gymnase",
-    "address": {
-      "street": "400 rue Shefford",
-      "city": "Bromont",
-      "region": "QC",
-      "postal_code": "J2L3E7"
-    },
-    "season": "fall",
-    "full_address": "400 rue Shefford, Bromont, QC, J2L3E7",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12668",
-    "latitude": 45.3234182,
-    "longitude": -72.6431563
-  },
-  {
-    "title": "COWANSVILLE | MULTISPORTS | 2 - 5 ans | Lundi 17h40",
-    "city": "Cowansville",
-    "sport": "MULTISPORTS",
-    "age_range": "2 - 5",
-    "price": "$139.00",
-    "schedule": "Monday 5:40 PM to 6:20 PM",
-    "duration": "from September 28, 2026 to November 30, 2026",
-    "age": "2 years and older",
-    "remaining_spots": "complete",
-    "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458850",
-    "location_name": "École des Colibris - Cowansville - Gymnase",
-    "address": {
-      "street": "186 rue du Nord",
-      "city": "Cowansville",
-      "region": "QC",
-      "postal_code": "J2K2L8"
-    },
-    "season": "fall",
-    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12278",
-    "latitude": 45.2133625,
-    "longitude": -72.7416703
-  },
-  {
-    "title": "COWANSVILLE | MULTISPORTS | 6 - 10 ans | Lundi 18h25",
-    "city": "Cowansville",
-    "sport": "MULTISPORTS",
-    "age_range": "6 - 10",
-    "price": "$139.00",
-    "schedule": "Monday 6:25 PM to 7:15 PM",
-    "duration": "from September 28, 2026 to November 30, 2026",
-    "age": "6 years and older",
-    "remaining_spots": "5+",
-    "link": "https://www.qidigo.com/u/7-Sports-Estrie/activity/34310/group/458851",
-    "location_name": "École des Colibris - Cowansville - Gymnase",
-    "address": {
-      "street": "186 rue du Nord",
-      "city": "Cowansville",
-      "region": "QC",
-      "postal_code": "J2K2L8"
-    },
-    "season": "fall",
-    "full_address": "186 rue du Nord, Cowansville, QC, J2K2L8",
-    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/12675",
-    "latitude": 45.2133625,
-    "longitude": -72.7416703
   },
   {
     "title": "BROMONT | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
