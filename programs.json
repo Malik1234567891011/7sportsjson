@@ -58,18 +58,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/34773/group/485366",
-    "location_name": "",
+    "location_name": "Salle Randell Hall - Chambly - Salle communautaire",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "2000 rue Bourgogne",
+      "city": "Chambly",
+      "region": "QC",
+      "postal_code": "J3L1Z4"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "2000 rue Bourgogne, Chambly, QC, J3L1Z4",
     "trial_link": "http://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13065",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4483467,
+    "longitude": -73.2936944
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | DÉCOUVERTE | 16 - 28 MOIS | Dimanche 8h30",
@@ -154,18 +154,18 @@
     "age": "2 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35967/group/459190",
-    "location_name": "",
+    "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "195 boulevard Brisebois",
+      "city": "Châteauguay",
+      "region": "QC",
+      "postal_code": "J6K 0H5"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR2 | 2 - 4 ans | Dimanche 10h20",
@@ -452,8 +452,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "NDIP | DÉCOUVERTE | 16 - 26 mois | Dimanche 8h45",
@@ -644,8 +644,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -668,8 +668,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -677,7 +677,7 @@
     "sport": "SOCCER",
     "age_range": "7 - 10",
     "price": "$152.00",
-    "schedule": "Sunday 9:45 AM to 10:35 AM",
+    "schedule": "Sunday 10:40 AM to 11:30 AM",
     "duration": "from January 17, 2027 to April 4, 2027",
     "age": "7 years and older",
     "remaining_spots": "5+",
@@ -692,8 +692,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
