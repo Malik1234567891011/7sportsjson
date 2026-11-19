@@ -452,8 +452,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5127871,
+    "longitude": -73.5069739
   },
   {
     "title": "NDIP | DÉCOUVERTE | 16 - 26 mois | Dimanche 8h45",
@@ -644,8 +644,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -668,8 +668,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -692,8 +692,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5016205,
-    "longitude": -73.6849032
+    "latitude": 45.505319,
+    "longitude": -73.6802293
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -1246,6 +1246,174 @@
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13118",
     "latitude": 45.3056879,
     "longitude": -73.2533401
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | DÉCOUVERTE | 16 - 28 MOIS | Samedi 9h00",
+    "city": "Vaudreuil-Dorion",
+    "sport": "DÉCOUVERTE",
+    "age_range": "16 - 28 MOIS",
+    "price": "$72.50",
+    "schedule": "Saturday 9:00 AM to 9:30 AM",
+    "duration": "from January 23, 2027 to March 20, 2027",
+    "age": "16 months and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36623/group/498567",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Salle Multi-fonctionnelle",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Samedi 9h35",
+    "city": "Vaudreuil-Dorion",
+    "sport": "MULTISPORT",
+    "age_range": "2 - 4",
+    "price": "$129.00",
+    "schedule": "Saturday 9:35 AM to 10:15 AM",
+    "duration": "from January 23, 2027 to March 20, 2027",
+    "age": "2 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36626/group/498580",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Salle Multi-fonctionnelle",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | MULTISPORT | 2 - 4 ans | Samedi 10h20",
+    "city": "Vaudreuil-Dorion",
+    "sport": "MULTISPORT",
+    "age_range": "2 - 4",
+    "price": "$129.00",
+    "schedule": "Saturday 10:20 AM to 11:00 AM",
+    "duration": "from January 23, 2027 to March 20, 2027",
+    "age": "2 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36626/group/498586",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Salle Multi-fonctionnelle",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | MULTISPORT | 4 - 6 ans | Samedi 11h00",
+    "city": "Vaudreuil-Dorion",
+    "sport": "MULTISPORT",
+    "age_range": "4 - 6",
+    "price": "$129.00",
+    "schedule": "Saturday 11:00 AM to 11:50 AM",
+    "duration": "from January 23, 2027 to March 20, 2027",
+    "age": "4 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36626/group/498583",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Salle Multi-fonctionnelle",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | SOCCER | 2 - 4 ans | Dimanche 9h00",
+    "city": "Vaudreuil-Dorion",
+    "sport": "SOCCER",
+    "age_range": "2 - 4",
+    "price": "$129.00",
+    "schedule": "Sunday 9:00 AM to 9:40 AM",
+    "duration": "from March 7, 2027 to May 16, 2027",
+    "age": "2 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36629/group/498591",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | SOCCER | 4 - 6 ans | Dimanche 9h45",
+    "city": "Vaudreuil-Dorion",
+    "sport": "SOCCER",
+    "age_range": "4 - 6",
+    "price": "$129.00",
+    "schedule": "Sunday 9:45 AM to 10:35 AM",
+    "duration": "from March 7, 2027 to May 16, 2027",
+    "age": "4 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36629/group/498593",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
+  },
+  {
+    "title": "HIVER | VAUDREUIL-DORION | SOCCER | 7 - 10 ans | Dimanche 10h40",
+    "city": "Vaudreuil-Dorion",
+    "sport": "SOCCER",
+    "age_range": "7 - 10",
+    "price": "$129.00",
+    "schedule": "Sunday 10:40 AM to 11:30 AM",
+    "duration": "from March 7, 2027 to May 16, 2027",
+    "age": "7 years and older",
+    "remaining_spots": "5+",
+    "link": "https://www.qidigo.com/u/7SPORTSMM/activity/36629/group/498596",
+    "location_name": "Centre sportif de la CDJ - Vaudreuil-Dorion - Gymnase",
+    "address": {
+      "street": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC",
+      "city": "Vaudreuil-Dorion",
+      "region": "QC",
+      "postal_code": "J7V 6B1"
+    },
+    "season": "winter",
+    "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
+    "trial_link": "",
+    "latitude": 45.393806,
+    "longitude": -74.0306023
   },
   {
     "title": "GATINEAU | MULTISPORT | 2 - 5 ans | Mercredi 17h30",
