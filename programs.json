@@ -92,8 +92,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13069",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | HOCKEY GR1 | 4 - 6 ans | Dimanche 9h00",
@@ -116,8 +116,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13068",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | HOCKEY GR1 | 7 - 10 ans | Dimanche 9h50",
@@ -140,8 +140,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13068",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 2 - 4 ans | Dimanche 9h35",
@@ -164,8 +164,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR2 | 2 - 4 ans | Dimanche 10h20",
@@ -188,8 +188,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 4 - 6 ans | Dimanche 9h05",
@@ -202,18 +202,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35967/group/459219",
-    "location_name": "Sportplex - Châteauguay - Gymnase",
+    "location_name": "",
     "address": {
-      "street": "195 boulevard Brisebois",
-      "city": "Châteauguay",
-      "region": "QC",
-      "postal_code": "J6K 0H5"
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal_code": ""
     },
     "season": "winter",
-    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
+    "full_address": "",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": null,
+    "longitude": null
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR2 | 4 - 6 ans | Dimanche 10h00",
@@ -236,8 +236,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | MULTISPORTS GR1 | 7 - 10 ans | Dimanche 8h40",
@@ -260,8 +260,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13067",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 2 - 4 ans | Dimanche 9h00",
@@ -284,8 +284,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 4 - 6 ans | Dimanche 9h50",
@@ -308,8 +308,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "CHÂTEAUGUAY | SOCCER GR1 | 7 - 10 ans | Dimanche 11h05",
@@ -332,8 +332,8 @@
     "season": "winter",
     "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13066",
-    "latitude": 45.3464363,
-    "longitude": -73.7692373
+    "latitude": 45.3464547,
+    "longitude": -73.7691959
   },
   {
     "title": "COTEAU-DU-LAC | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -572,8 +572,8 @@
     "season": "winter",
     "full_address": "1350 Bd Virginie-Roy, Notre-Dame-de-l'Île-Perrot, QC, J7V 9E3",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13126",
-    "latitude": 45.3831423,
-    "longitude": -73.9227734
+    "latitude": 45.3861969,
+    "longitude": -73.9395631
   },
   {
     "title": "NDIP | MULTISPORT | 2 - 4 ans | Dimanche 9h20",
@@ -596,8 +596,8 @@
     "season": "winter",
     "full_address": "1350 Bd Virginie-Roy, Notre-Dame-de-l'Île-Perrot, QC, J7V 9E3",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13126",
-    "latitude": 45.3831423,
-    "longitude": -73.9227734
+    "latitude": 45.3861969,
+    "longitude": -73.9395631
   },
   {
     "title": "NDIP | MULTISPORT | 4 - 6 ans | Dimanche 9h20",
@@ -620,8 +620,8 @@
     "season": "winter",
     "full_address": "1350 Bd Virginie-Roy, Notre-Dame-de-l'Île-Perrot, QC, J7V 9E3",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13126",
-    "latitude": 45.3831423,
-    "longitude": -73.9227734
+    "latitude": 45.3861969,
+    "longitude": -73.9395631
   },
   {
     "title": "PIERREFONDS | SOCCER | 2 - 4 ans | Dimanche 9h00",
@@ -644,8 +644,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -668,8 +668,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -692,8 +692,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.505319,
-    "longitude": -73.6802293
+    "latitude": 45.5066926,
+    "longitude": -73.6784836
   },
   {
     "title": "SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
