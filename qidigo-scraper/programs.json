@@ -644,8 +644,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "HIVER | PIERREFONDS | SOCCER | 4 - 6 ans | Dimanche 9h45",
@@ -668,8 +668,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "HIVER | PIERREFONDS | SOCCER | 7 - 10 ans | Dimanche 10h40",
@@ -692,8 +692,8 @@
     "season": "winter",
     "full_address": "4901 rue du Collège, Montréal, QC, H8Y 3T4",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13076",
-    "latitude": 45.5066926,
-    "longitude": -73.6784836
+    "latitude": 45.5016205,
+    "longitude": -73.6849032
   },
   {
     "title": "HIVER | SAINTE-CATHERINE | MULTISPORT | 2 - 4 ans | Dimanche 9h00",
@@ -788,8 +788,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -812,8 +812,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -836,8 +836,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -860,8 +860,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -908,8 +908,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13074",
-    "latitude": 45.5647147,
-    "longitude": -73.3288913
+    "latitude": 45.5647237,
+    "longitude": -73.328625
   },
   {
     "title": "HIVER | SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1064,7 +1064,7 @@
     "schedule": "Sunday 9:45 AM to 10:35 AM",
     "duration": "from January 24, 2027 to March 28, 2027",
     "age": "4 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/30439/group/459224",
     "location_name": "Collège Militaire - Saint-Jean-sur-Richelieu - Gymnase",
     "address": {
