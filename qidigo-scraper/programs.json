@@ -106,18 +106,18 @@
     "age": "4 years and older",
     "remaining_spots": "5+",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35968/group/459230",
-    "location_name": "",
+    "location_name": "Sportplex - Châteauguay - Gymnase",
     "address": {
-      "street": "",
-      "city": "",
-      "region": "",
-      "postal_code": ""
+      "street": "195 boulevard Brisebois",
+      "city": "Châteauguay",
+      "region": "QC",
+      "postal_code": "J6K 0H5"
     },
     "season": "winter",
-    "full_address": "",
+    "full_address": "195 boulevard Brisebois, Châteauguay, QC, J6K 0H5",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13068",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3464363,
+    "longitude": -73.7692373
   },
   {
     "title": "HIVER | CHÂTEAUGUAY | HOCKEY GR1 | 7 - 10 ans | Dimanche 9h50",
@@ -452,8 +452,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G6",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5135616,
+    "longitude": -73.5089733
   },
   {
     "title": "HIVER | LONGUEUIL | MULTISPORT | 4 - 6 ans | Dimanche 10h50",
@@ -476,8 +476,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G6",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13124",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5135616,
+    "longitude": -73.5089733
   },
   {
     "title": "HIVER | LONGUEUIL | SOCCER | 2 - 4 ans | Dimanche 10h00",
@@ -500,8 +500,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G6",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5135616,
+    "longitude": -73.5089733
   },
   {
     "title": "HIVER | LONGUEUIL | SOCCER | 4 - 6 ans | Dimanche 10h50",
@@ -524,8 +524,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G6",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5135616,
+    "longitude": -73.5089733
   },
   {
     "title": "HIVER | LONGUEUIL | SOCCER | 6 - 9 ans | Dimanche 10h50",
@@ -548,8 +548,8 @@
     "season": "winter",
     "full_address": "901 chemin Tiffin, Longueuil, QC, J4P 3G6",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13125",
-    "latitude": 45.5121633,
-    "longitude": -73.5053727
+    "latitude": 45.5135616,
+    "longitude": -73.5089733
   },
   {
     "title": "HIVER | NDIP | DÉCOUVERTE | 16 - 26 mois | Dimanche 8h45",
@@ -776,7 +776,7 @@
     "schedule": "Saturday 9:00 AM to 9:40 AM",
     "duration": "from January 30, 2027 to March 27, 2027",
     "age": "4 years and older",
-    "remaining_spots": "4",
+    "remaining_spots": "3",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35997/group/485894",
     "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
@@ -788,8 +788,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINTE-JULIE | HOCKEY BALLE | 7 - 10 ans | Samedi 9h45",
@@ -800,7 +800,7 @@
     "schedule": "Saturday 9:45 AM to 10:35 AM",
     "duration": "from January 30, 2027 to March 27, 2027",
     "age": "7 years and older",
-    "remaining_spots": "5+",
+    "remaining_spots": "5",
     "link": "https://www.qidigo.com/u/7SPORTSMM/activity/35997/group/485895",
     "location_name": "École du Grand-Chêne - Sainte-Julie - Gymnase",
     "address": {
@@ -812,8 +812,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13075",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 2 - 4 ans | Samedi 9h00",
@@ -836,8 +836,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 4 - 6 ans | Samedi 9h45",
@@ -860,8 +860,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINTE-JULIE | MULTISPORTS | 7 - 10 ans | Samedi 10h40",
@@ -884,8 +884,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13073",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINTE-JULIE | SOCCER | 2 - 4 ans | Samedi 10h40",
@@ -908,8 +908,8 @@
     "season": "winter",
     "full_address": "27 Rue du Plateau, Sainte-Julie, QC, J3E 2X9",
     "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13074",
-    "latitude": 45.5647237,
-    "longitude": -73.328625
+    "latitude": 45.5647147,
+    "longitude": -73.3288913
   },
   {
     "title": "HIVER | SAINT-HUBERT | MULTISPORT | 2 - 4 ans | Samedi 9h00",
@@ -1267,7 +1267,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13165",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1291,7 +1291,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13165",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1315,7 +1315,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13165",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1339,7 +1339,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13165",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1363,7 +1363,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13166",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1387,7 +1387,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13166",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
@@ -1411,7 +1411,7 @@
     },
     "season": "winter",
     "full_address": "400 Av. Saint-Charles, Vaudreuil-Dorion, QC, Vaudreuil-Dorion, QC, J7V 6B1",
-    "trial_link": "",
+    "trial_link": "https://app.eventnroll.com/fr/billetterie/achat-de-billet/1834/13166",
     "latitude": 45.393806,
     "longitude": -74.0306023
   },
